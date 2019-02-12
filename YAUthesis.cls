@@ -222,11 +222,7 @@
 \newcommand\acknowledgement{\chapter*{\ziju{2}致谢}}
 
 %%% ---- 章节标题设置 ----- %%%%
-% \ctexset{chapter={format+={\zihao{-2}},%
-%                number={\zihao{-2}\arabic{chapter}},name={,},afterskip={30pt},beforeskip={20pt}}}
-% \ctexset{section={format+={\zihao{4}\raggedright}}}
-% \ctexset{subsection={format+={\zihao{-4}\raggedright}}}
-% \ctexset{subsubsection={format={\zihao{-4}\bf\raggedright}}}
+
 \CTEXsetup[format={\centering\sffamily}]{chapter}
 \CTEXsetup[nameformat={\heiti\zihao{3}}]{chapter}
 \CTEXsetup[titleformat={\heiti\zihao{3}}]{chapter}
