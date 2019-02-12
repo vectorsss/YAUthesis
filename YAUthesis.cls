@@ -222,11 +222,26 @@
 \newcommand\acknowledgement{\chapter*{\ziju{2}致谢}}
 
 %%% ---- 章节标题设置 ----- %%%%
-\ctexset{chapter={format+={\zihao{-2}},%
-               number={\zihao{-2}\arabic{chapter}},name={,},afterskip={30pt},beforeskip={20pt}}}
-\ctexset{section={format+={\zihao{4}\raggedright}}}
-\ctexset{subsection={format+={\zihao{-4}\raggedright}}}
-\ctexset{subsubsection={format={\zihao{-4}\bf\raggedright}}}
+% \ctexset{chapter={format+={\zihao{-2}},%
+%                number={\zihao{-2}\arabic{chapter}},name={,},afterskip={30pt},beforeskip={20pt}}}
+% \ctexset{section={format+={\zihao{4}\raggedright}}}
+% \ctexset{subsection={format+={\zihao{-4}\raggedright}}}
+% \ctexset{subsubsection={format={\zihao{-4}\bf\raggedright}}}
+\CTEXsetup[format={\centering\sffamily}]{chapter}
+\CTEXsetup[nameformat={\heiti\zihao{3}}]{chapter}
+\CTEXsetup[titleformat={\heiti\zihao{3}}]{chapter}
+\CTEXsetup[numberformat={\heiti\zihao{3}}]{chapter}
+\CTEXsetup[beforeskip={0pt},afterskip={30pt}]{chapter}
+\CTEXsetup[name={第, 章},number={\arabic{chapter}}]{chapter}
+
+\CTEXsetup[format={\flushleft\sffamily\heiti\zihao{4}}]{section}
+\CTEXsetup[beforeskip={24pt},afterskip={6pt}]{section}
+
+\CTEXsetup[format={\flushleft\sffamily\heiti\zihao{-4}}]{subsection}
+\CTEXsetup[beforeskip={12pt},afterskip={6pt}]{subsection}
+
+\CTEXsetup[format={\flushleft\sffamily\heiti\zihao{-4}}]{subsubsection}
+\CTEXsetup[beforeskip={12pt},afterskip={6pt}]{subsubsection}
 
 \setcounter{tocdepth}{4}
 \setcounter{secnumdepth}{4}
