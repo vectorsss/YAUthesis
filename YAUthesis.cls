@@ -31,12 +31,6 @@
 \newtoks\Titleo          %真正的标题1
 \newtoks\Titlet          %真正的标题2
 \newtoks\Cmajor          %学科专业中文名
-% \newtoks\Emajor          %学科专业英文名
-% \newtoks\Edate           %英文日期
-% \newtoks\Etitle          %英文题目
-% \newtoks\Eauthor         %作者英文名
-% \newtoks\Esupervisor     %指导教师英文名
-% \newtoks\Eschoolname     %学院英文名
 \newtoks\Cschoolname      %学院中文名
 \newtoks\Csupervisor     %指导教师中文名
 \newtoks\PRAT            %指导教师职称(professional ranks and titles)
@@ -63,39 +57,27 @@
   %\vspace*{-2cm}
   \begin{center}\leavevmode
     {\heiti \zihao{5}%
-  %   \begin{tabular}{p{9cm}lp{3cm}l}
-  % & \raisebox{-0.5ex}[0pt]{\makebox[1.5cm][s]{分\hfill 类\hfill 号:}} & {}\hfill\raisebox{-0.5ex}[0pt]{\the\ClassNumber}\hfill{}   & \\ \cline{3-3}
-  % & \raisebox{-0.5ex}[0pt]{\makebox[1.5cm][s]{单\hfill 位\hfill 代\hfill 码:}} & {}\hfill\raisebox{-0.5ex}[0pt]{\the\DepartNumber}\hfill{}   & \\ \cline{3-3}
-  % & \raisebox{-0.5ex}[0pt]{\makebox[1.5cm][s]{密\hfill 级:}} & {}\hfill\raisebox{-0.5ex}[0pt]{\the\miji}\hfill{}   & \\ \cline{3-3}
-  % & \raisebox{-0.5ex}[0pt]{\makebox[1.5cm][s]{学\hfill 号:}} & {}\hfill\raisebox{-0.5ex}[0pt]{\the\StudentNumber}\hfill{} & \\ \cline{3-3}
-  %   \end{tabular}
-    \begin{flushleft}
-      \makebox[17mm][s]{\heiti 学院代码:}\underline{\makebox[35mm][c]{\the\DepartNumber}}\hfill\makebox[17mm][s]{\heiti 学号:}\underline{\makebox[35mm][c]{\the\StudentNumber}}\\
-      \vskip0.2cm
-      \makebox[17mm][s]{\heiti 分类号:}\underline{\makebox[35mm][c]{\the\ClassNumber}}\hfill\makebox[17mm][s]{\heiti 密级:}\underline{\makebox[35mm][c]{\the\miji}}
-    \end{flushleft}
+
+      \begin{flushleft}
+        \makebox[17mm][s]{\heiti 学院代码:}\underline{\makebox[35mm][c]{\the\DepartNumber}}\hfill\makebox[17mm][s]{\heiti 学号:}\underline{\makebox[35mm][c]{\the\StudentNumber}}\\
+        \vskip0.2cm
+        \makebox[17mm][s]{\heiti 分类号:}\underline{\makebox[35mm][c]{\the\ClassNumber}}\hfill\makebox[17mm][s]{\heiti 密级:}\underline{\makebox[35mm][c]{\the\miji}}
+      \end{flushleft}
     }
     \par
     \vspace*{3.1cm} %插入空白
     \begin{center}
       \includegraphics[height=2cm]{yadx.eps}   
     \end{center}
-    % {\heiti \zihao{1} \makebox[9cm][s]{延安大学}}\\
     \vspace{2.6cm}
     {\heiti \zihao{1} \@title \\}%
 %    \vspace{4cm}
      \vfill\vfill\vfill
     {\songti\zihao{-3}
-    % \begin{tabular}{cp{5cm}c}
-    %   \raisebox{-3ex}[0pt]{\makebox[3.5cm][s]{院\hfill (系)\hfill 名\hfill 称：}} & {  {}\raisebox{-3ex}[0pt]{\the\Cschoolname}\hfill{}} & \\[3ex]
-    %   \raisebox{-3ex}[0pt]{\makebox[3.5cm][s]{专\hfill 业\hfill 名\hfill 称：}} & { {}\raisebox{-3ex}[0pt]{\the\Cmajor}\hfill{}} & \\[3ex]
-    %   \raisebox{-3ex}[0pt]{\makebox[3.5cm][s]{学\hfill 生\hfill 姓\hfill 名：}} & { {}\raisebox{-3ex}[0pt]{\@author}\hfill{}} & \\[3ex]
-    %   \raisebox{-3ex}[0pt]{\makebox[3.5cm][s]{指\hfill 导\hfill 教\hfill 师：}} & { {}\raisebox{-3ex}[0pt]{\the\Csupervisor}\hfill{}} & \\[3ex]
-    %  \end{tabular}
       \begin{center}
       \makebox[30mm][s]{\heiti 题目:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titleo}}\\
       \vskip0.7cm
-      \makebox[30mm][s]{\heiti } \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titlet}}\\  %如果一行题目够用,释掉该行和下一行计科。
+      \makebox[30mm][s]{\heiti } \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titlet}}\\  %如果一行题目够用,释掉该行和下一行即可.
       \vskip0.7cm
       \makebox[30mm][s]{\heiti 专业:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Cmajor}}\\
       \vskip0.7cm
@@ -110,10 +92,7 @@
     }
 
     \par
-    % \vspace{2.6cm}
-    % {
-    % {\songti \zihao{3} \@date \par}%
-    % } %dd
+
     %\vspace*{-0.7cm}
   \end{center}%
 %  \null
