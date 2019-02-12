@@ -12,7 +12,7 @@
 
 
 
-%------------------------ Page layout ----------------------------------
+%------------------------ Page layout ---------------------------------
 \RequirePackage{fancyhdr,hyperref}
 
 \hypersetup{pdfencoding=auto}  %%% 邓东升修改
@@ -36,7 +36,7 @@
 % \newtoks\Etitle          %英文题目
 % \newtoks\Eauthor         %作者英文名
 % \newtoks\Esupervisor     %指导教师英文名
-% \newtoks\Eschoolname      %学院英文名
+% \newtoks\Eschoolname     %学院英文名
 \newtoks\Cschoolname      %学院中文名
 \newtoks\Csupervisor     %指导教师中文名
 \newtoks\PRAT            %指导教师职称(professional ranks and titles)
@@ -95,8 +95,8 @@
       \begin{center}
       \makebox[30mm][s]{\heiti 题目:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titleo}}\\
       \vskip0.7cm
-      %\makebox[30mm][s]{\heiti } \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titlet}}\\  %如果一行题目够用,释掉该行和下一行计科。
-      %\vskip0.7cm
+      \makebox[30mm][s]{\heiti } \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titlet}}\\  %如果一行题目够用,释掉该行和下一行计科。
+      \vskip0.7cm
       \makebox[30mm][s]{\heiti 专业:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Cmajor}}\\
       \vskip0.7cm
       \makebox[30mm][s]{\heiti 姓名:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\@author}}\\
@@ -119,6 +119,7 @@
 %  \null
 %   \cleardoublepage
   }
+
 
 %------------------------ Abstract & Keywords -------------------------
 \newcommand\cnabstractname{摘要} 
