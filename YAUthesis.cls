@@ -130,6 +130,7 @@
 %\RequirePackage{mathrsfs}   % 不同于\mathcal or \mathfrak 之类的英文花体字体
 \RequirePackage{url}
 \RequirePackage{enumerate}
+\RequirePackage{booktabs} %控制表线 赵驰修改 2019.02
 %%----------------------- Theorems -----------------------------------
 \theoremstyle{plain}
 \theoremheaderfont{\heiti}
@@ -260,6 +261,9 @@
 \bibliographystyle{abbrv}        % 参考文献样式,  plain,unsrt,alpha,abbrv,chinesebst 等等
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \graphicspath{{figures/}}        % 图片文件路径
+%%%%%%%%%%%%%%%%%%%%%%%---优化图片排版---%%%%%%%%%%%%%%%%%%%%% 赵驰修改 2019.02
+\newlength\imagewidth
+\setlength\imagewidth{0.45\columnwidth}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \allowdisplaybreaks
 
