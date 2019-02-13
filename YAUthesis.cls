@@ -1,6 +1,6 @@
 % !Mode:: "TeX:UTF-8"
 \NeedsTeXFormat{LaTeX2e}[1999/12/01]
-\ProvidesClass{WHUBachelor}[2016/05/31 4.0 Wuhan University Thesis Template for Bachelor Degree]
+\ProvidesClass{YAUthesis}[2016/05/31 4.0 Wuhan University Thesis Template for Bachelor Degree]
 \LoadClass[zihao=-4,a4paper,oneside]{ctexbook}
 \setmainfont{Times New Roman}
 
@@ -16,9 +16,9 @@
 \RequirePackage{fancyhdr,hyperref}
 
 \hypersetup{pdfencoding=auto}  %%% 邓东升修改
- \ifprint
- \hypersetup{hidelinks}
- \else
+\ifprint
+\hypersetup{hidelinks}
+\else
 \hypersetup{citecolor=magenta,linkcolor=blue}
 \fi
 \RequirePackage[top=2.7truecm,bottom=2.2truecm,left=3truecm,right=3truecm,includefoot,xetex]{geometry}    % 页面设置%
@@ -44,60 +44,60 @@
 
 \fancypagestyle{plain}
 {
-\fancyhead{}                                    % clear all header fields
-\renewcommand{\headrulewidth}{0pt}
-\fancyfoot{}                                    % clear all footer fields
-\fancyfoot[C]{-\,\thepage\,-}
+	\fancyhead{}                                    % clear all header fields
+	\renewcommand{\headrulewidth}{0pt}
+	\fancyfoot{}                                    % clear all footer fields
+	\fancyfoot[C]{-\,\thepage\,-}
 }
 
 %%=====封面===================== 
 \def\maketitle{%
-  \null
-  \thispagestyle{empty}%
-  %\vspace*{-2cm}
-  \begin{center}\leavevmode
-    {\heiti \zihao{5}%
-
-      \begin{flushleft}
-        \makebox[17mm][s]{\heiti 学院代码:}\underline{\makebox[35mm][c]{\the\DepartNumber}}\hfill\makebox[17mm][s]{\heiti 学号:}\underline{\makebox[35mm][c]{\the\StudentNumber}}\\
-        \vskip0.2cm
-        \makebox[17mm][s]{\heiti 分类号:}\underline{\makebox[35mm][c]{\the\ClassNumber}}\hfill\makebox[17mm][s]{\heiti 密级:}\underline{\makebox[35mm][c]{\the\miji}}
-      \end{flushleft}
-    }
-    \par
-    \vspace*{3.1cm} %插入空白
-    \begin{center}
-      \includegraphics[height=2cm]{yadx.eps}   
-    \end{center}
-    \vspace{2.6cm}
-    {\heiti \zihao{1} \@title \\}%
-%    \vspace{4cm}
-     \vfill\vfill\vfill
-    {\songti\zihao{-3}
-      \begin{center}
-      \makebox[30mm][s]{\heiti 题目:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titleo}}\\
-      \vskip0.7cm
-      \makebox[30mm][s]{\heiti } \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titlet}}\\  %如果一行题目够用,释掉该行和下一行即可.
-      \vskip0.7cm
-      \makebox[30mm][s]{\heiti 专业:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Cmajor}}\\
-      \vskip0.7cm
-      \makebox[30mm][s]{\heiti 姓名:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\@author}}\\
-      \vskip0.7cm
-      \makebox[30mm][s]{\heiti 指导教师:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Csupervisor}}\\
-      \vskip0.7cm
-      \makebox[30mm][s]{\heiti 职称:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\PRAT}} \\
-      \vskip0.7cm
-      \makebox[30mm][s]{\heiti 答辩日期:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\@date}}
-    \end{center}
-    }
-
-    \par
-
-    %\vspace*{-0.7cm}
-  \end{center}%
-%  \null
-%   \cleardoublepage
-  }
+	\null
+	\thispagestyle{empty}%
+	%\vspace*{-2cm}
+	\begin{center}\leavevmode
+		{\heiti \zihao{5}%
+			
+			\begin{flushleft}
+				\makebox[17mm][s]{\heiti 学院代码:}\underline{\makebox[35mm][c]{\the\DepartNumber}}\hfill\makebox[17mm][s]{\heiti 学号:}\underline{\makebox[35mm][c]{\the\StudentNumber}}\\
+				\vskip0.2cm
+				\makebox[17mm][s]{\heiti 分类号:}\underline{\makebox[35mm][c]{\the\ClassNumber}}\hfill\makebox[17mm][s]{\heiti 密级:}\underline{\makebox[35mm][c]{\the\miji}}
+			\end{flushleft}
+		}
+		\par
+		\vspace*{3.1cm} %插入空白
+		\begin{center}
+			\includegraphics[height=2cm]{yadx.eps}   
+		\end{center}
+		\vspace{2.6cm}
+		{\heiti \zihao{1} \@title \\}%
+		%    \vspace{4cm}
+		\vfill\vfill\vfill
+		{\songti\zihao{-3}
+			\begin{center}
+				\makebox[30mm][s]{\heiti 题目:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titleo}}\\
+				\vskip0.7cm
+				\makebox[30mm][s]{\heiti } \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titlet}}\\  %如果一行题目够用,释掉该行和下一行即可.
+				\vskip0.7cm
+				\makebox[30mm][s]{\heiti 专业:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Cmajor}}\\
+				\vskip0.7cm
+				\makebox[30mm][s]{\heiti 姓名:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\@author}}\\
+				\vskip0.7cm
+				\makebox[30mm][s]{\heiti 指导教师:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Csupervisor}}\\
+				\vskip0.7cm
+				\makebox[30mm][s]{\heiti 职称:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\PRAT}} \\
+				\vskip0.7cm
+				\makebox[30mm][s]{\heiti 答辩日期:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\@date}}
+			\end{center}
+		}
+		
+		\par
+		
+		%\vspace*{-0.7cm}
+	\end{center}%
+	%  \null
+	%   \cleardoublepage
+}
 
 
 %------------------------ Abstract & Keywords -------------------------
@@ -109,18 +109,18 @@
 \newcommand\enkeywordsname{Key words}
 
 \newenvironment{cnabstract}{
-    \newpage
-\chapter[\cnabstractname]{\ziju{2}{\cnabstractname}}   %%%终于解决了书签乱码的问题 2005-04-12.huangzh
-    \songti\zihao{-4}
-    \@afterheading}
-    {\par}
+	\newpage
+	\chapter[\cnabstractname]{\ziju{2}{\cnabstractname}}   %%%终于解决了书签乱码的问题 2005-04-12.huangzh
+	\songti\zihao{-4}
+	\@afterheading}
+{\par}
 
 \newenvironment{enabstract}{
-    \newpage
-    \chapter[\enabstractname]{\enabstractname}
-    \songti\zihao{-4}
-    \@afterheading}
-    {\par}
+	\newpage
+	\chapter[\enabstractname]{\enabstractname}
+	\songti\zihao{-4}
+	\@afterheading}
+{\par}
 
 %%------------------------常用宏包-----------------------------------
 \RequirePackage{amsmath,amssymb}
@@ -160,40 +160,40 @@
 %%%===  suppress extra inter-line spacing in \list environments
 \makeatletter \setlength\partopsep{0pt}
 \def\@listI{\leftmargin\leftmargini
-            \parsep 0pt
-            \topsep \parsep
-            \itemsep \parsep}
+	\parsep 0pt
+	\topsep \parsep
+	\itemsep \parsep}
 \@listI
 \def\@listii {\leftmargin\leftmarginii
-              \labelwidth\leftmarginii
-              \advance\labelwidth-\labelsep
-              \parsep    \z@ \@plus\z@  \@minus\z@
-              \topsep    \parsep
-              \itemsep   \parsep}
+	\labelwidth\leftmarginii
+	\advance\labelwidth-\labelsep
+	\parsep    \z@ \@plus\z@  \@minus\z@
+	\topsep    \parsep
+	\itemsep   \parsep}
 \def\@listiii{\leftmargin\leftmarginiii
-              \labelwidth\leftmarginiii
-              \advance\labelwidth-\labelsep
-              \parsep    \z@ \@plus\z@  \@minus\z@
-              \topsep    \parsep
-              \itemsep   \parsep}
+	\labelwidth\leftmarginiii
+	\advance\labelwidth-\labelsep
+	\parsep    \z@ \@plus\z@  \@minus\z@
+	\topsep    \parsep
+	\itemsep   \parsep}
 \def\@listiv{\leftmargin\leftmarginiv
-              \labelwidth\leftmarginiv
-              \advance\labelwidth-\labelsep
-              \parsep    \z@ \@plus\z@  \@minus\z@
-              \topsep    \parsep
-              \itemsep   \parsep}
+	\labelwidth\leftmarginiv
+	\advance\labelwidth-\labelsep
+	\parsep    \z@ \@plus\z@  \@minus\z@
+	\topsep    \parsep
+	\itemsep   \parsep}
 \def\@listv{\leftmargin\leftmarginv
-              \labelwidth\leftmarginv
-              \advance\labelwidth-\labelsep
-              \parsep    \z@ \@plus\z@  \@minus\z@
-              \topsep    \parsep
-              \itemsep   \parsep}
+	\labelwidth\leftmarginv
+	\advance\labelwidth-\labelsep
+	\parsep    \z@ \@plus\z@  \@minus\z@
+	\topsep    \parsep
+	\itemsep   \parsep}
 \def\@listvi{\leftmargin\leftmarginvi
-              \labelwidth\leftmarginvi
-              \advance\labelwidth-\labelsep
-              \parsep    \z@ \@plus\z@  \@minus\z@
-              \topsep    \parsep
-              \itemsep   \parsep}
+	\labelwidth\leftmarginvi
+	\advance\labelwidth-\labelsep
+	\parsep    \z@ \@plus\z@  \@minus\z@
+	\topsep    \parsep
+	\itemsep   \parsep}
 %
 % Change default margins for \list environments
 \setlength\leftmargini   {2\ccwd} \setlength\leftmarginii
@@ -206,16 +206,16 @@
 \setlength\listparindent{2\ccwd}
 % Change \listparindent to 2\ccwd in \list
 \def\list#1#2{\ifnum \@listdepth >5\relax \@toodeep
-     \else \global\advance\@listdepth\@ne \fi
-  \rightmargin \z@ \listparindent2\ccwd \itemindent \z@
-  \csname @list\romannumeral\the\@listdepth\endcsname
-  \def\@itemlabel{#1}\let\makelabel\@mklab \@nmbrlistfalse #2\relax
-  \@trivlist
-  \parskip\parsep \parindent\listparindent
-  \advance\linewidth -\rightmargin \advance\linewidth -\leftmargin
-  \advance\@totalleftmargin \leftmargin
-  \parshape \@ne \@totalleftmargin \linewidth
-  \ignorespaces}
+	\else \global\advance\@listdepth\@ne \fi
+	\rightmargin \z@ \listparindent2\ccwd \itemindent \z@
+	\csname @list\romannumeral\the\@listdepth\endcsname
+	\def\@itemlabel{#1}\let\makelabel\@mklab \@nmbrlistfalse #2\relax
+	\@trivlist
+	\parskip\parsep \parindent\listparindent
+	\advance\linewidth -\rightmargin \advance\linewidth -\leftmargin
+	\advance\@totalleftmargin \leftmargin
+	\parshape \@ne \@totalleftmargin \linewidth
+	\ignorespaces}
 
 \makeatother
 %---------------------------------------------------
@@ -250,12 +250,12 @@
 
 %%% ------ 目录设置 ------- %%%%
 \ctexset{contentsname={目\qquad 录}}
- 
+
 \RequirePackage{tocloft} 
 \renewcommand\cftchapfont{\zihao{4}\bf}
 \renewcommand\cfttoctitlefont{\hfill\zihao{-2}\bf}
 \renewcommand\cftaftertoctitle{\hfill}
- 
+
 %%===参考文献===%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \bibliographystyle{abbrv}        % 参考文献样式,  plain,unsrt,alpha,abbrv,chinesebst 等等
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
