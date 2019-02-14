@@ -24,11 +24,11 @@ vscode 需要两个插件: LaTeX language support和LaTeX Workshop.
 
 预览图如下: 
 
-**封面页: **
+**封面页:**
 
 ![封面页][1]
 
-**声明页: **
+**声明页:**
 
 ![声明页][2]
 
