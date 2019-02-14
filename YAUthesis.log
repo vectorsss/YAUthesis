@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.5)  14 FEB 2019 14:51
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.5)  14 FEB 2019 19:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9669,32 +9669,32 @@ Overfull \hbox (7.18512pt too wide) in paragraph at lines 36--37
 [3
 
 ] [4]
-Overfull \hbox (5.2893pt too wide) in paragraph at lines 240--242
+Overfull \hbox (5.2893pt too wide) in paragraph at lines 241--243
 []\TU/KaiTi(0)/m/n/12.045 关 于 此 问 题\TU/TimesNewRoman(0)/m/n/12.045 , \TU/KaiTi(0)/m/n/12.045 请 参 见 文 献 []\TU/lmtt/m/n/12.045 \cite{r2}\TU/TimesNewRoman(0)/m/n/12.045 . \TU/KaiTi(0)/m/n/12.045 作 者 某 某 还 提 到 了 某 某 概 念 []\TU/lmtt/m/n/12.045 \upcite{r1}\TU/TimesNewRoman(0)/m/n/12.045 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--242
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
 
  []
 
-Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 256.
+Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 257.
 [5]
-Package hyperref Info: bookmark level for unknown proof defaults to 0 on input line 261.
-Package hyperref Info: bookmark level for unknown definition defaults to 0 on input line 279.
-Package hyperref Info: bookmark level for unknown remark defaults to 0 on input line 284.
-Package hyperref Info: bookmark level for unknown proposition defaults to 0 on input line 288.
-Package hyperref Info: bookmark level for unknown example defaults to 0 on input line 292.
-Package hyperref Info: bookmark level for unknown corollary defaults to 0 on input line 296.
+Package hyperref Info: bookmark level for unknown proof defaults to 0 on input line 262.
+Package hyperref Info: bookmark level for unknown definition defaults to 0 on input line 280.
+Package hyperref Info: bookmark level for unknown remark defaults to 0 on input line 285.
+Package hyperref Info: bookmark level for unknown proposition defaults to 0 on input line 289.
+Package hyperref Info: bookmark level for unknown example defaults to 0 on input line 293.
+Package hyperref Info: bookmark level for unknown corollary defaults to 0 on input line 297.
  [6]
-Overfull \hbox (4.4979pt too wide) in paragraph at lines 331--335
+Overfull \hbox (4.4979pt too wide) in paragraph at lines 332--336
 []\TU/SimSun(0)/m/n/12.045 化 学 方 程 式 可 以 直 接 采 用 数 学 式 输 入\TU/TimesNewRoman(0)/m/n/12.045 , \TU/SimSun(0)/m/n/12.045 例 如\TU/TimesNewRoman(0)/m/n/12.045 : \TU/SimSun(0)/m/n/12.045 三 硝 基 甲 苯 \TU/TimesNewRoman(0)/m/n/12.045 (TNT) C$[]$H$[]$CH$[]$(NO$[]$)$[]$
  []
 
 File: figures/direction.png Graphic file (type bmp)
 <figures/direction.png>
 [7]
-Overfull \hbox (3.19502pt too wide) in paragraph at lines 385--386
+Overfull \hbox (3.19502pt too wide) in paragraph at lines 386--387
 []\TU/SimSun(0)/m/n/12.045 用 形 如 []\TU/lmtt/m/n/12.045 \includegraphics[width=12cm]{texlion.jpg} \TU/SimSun(0)/m/n/12.045 的 命 令 可 以 纳 入 图 片\TU/TimesNewRoman(0)/m/n/12.045 . 
  []
 
@@ -9705,20 +9705,20 @@ File: figures/Lenna.pdf Graphic file (type pdf)
 File: figures/Lenna_e.pdf Graphic file (type pdf)
 <use figures/Lenna_e.pdf>
 [8] [9]
-Overfull \hbox (28.58176pt too wide) in paragraph at lines 451--452
+Overfull \hbox (28.58176pt too wide) in paragraph at lines 452--453
 []\TU/SimSun(0)/m/n/12.045 伪 代 码 排 版 使 用 了 \TU/TimesNewRoman(0)/m/n/12.045 algorithm2e\TU/SimSun(0)/m/n/12.045 ，|  我 们 来 看 看 算 法[]\TU/TimesNewRoman(0)/m/n/12.045 1[] |\TU/SimSun(0)/m/n/12.045 （更 多 样 例 请 \TU/TimesNewRoman(0)/m/n/12.045 google“algorithm2e”\TU/SimSun(0)/m/n/12.045 ） ：| 
  []
 
 (e:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) [10]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 473.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 474.
  [11]
 第3章
 [12
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 519--520
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
 []\TU/TimesNewRoman(0)/m/n/12.045 Herbert Voß, Mathmode, []$[][][][] [] [] [] [][][] [] [][][] [] [][] [] [][] [] [][][][] [] [][][][] [] [][][][] [] [][][][] []
  []
 
@@ -9744,19 +9744,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 519--520
 \tf@thm=\write6
 \openout6 = `YAUthesis.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 547.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 547.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 548.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 548.
  (./YAUthesis.aux (./includefile/frontmatter.aux) (./includefile/backmatter.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 547.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 547.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 548.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 548.
 Package rerunfilecheck Info: File `YAUthesis.out' has not changed.
 (rerunfilecheck)             Checksum: FB49BFEA9891B8577BCD7785D9C04BE5.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 547.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 548.
  ) 
 Here is how much of TeX's memory you used:
  40340 strings out of 492970
  821765 string characters out of 6137299
- 919491 words of memory out of 5000000
+ 919500 words of memory out of 5000000
  43703 multiletter control sequences out of 15000+600000
  561630 words of font info for 212 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
