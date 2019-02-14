@@ -11,17 +11,24 @@
 \contentsline {section}{\numberline {2.2}字号调节}{3}{section.2.2}
 \contentsline {section}{\numberline {2.3}列表的使用}{4}{section.2.3}
 \contentsline {section}{\numberline {2.4}标点符号的问题}{5}{section.2.4}
-\contentsline {section}{\numberline {2.5}引用的问题}{5}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}参考文献的引用}{5}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}定理和公式的引用}{6}{subsection.2.5.2}
-\contentsline {section}{\numberline {2.6}图的使用}{6}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}单图排版}{6}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}双图排版}{7}{subsection.2.6.2}
-\contentsline {section}{\numberline {2.7}表的使用}{7}{section.2.7}
-\contentsline {chapter}{\numberline {第3章\hspace {.3em}}更新记录}{9}{chapter.3}
-\contentsline {chapter}{参考文献}{10}{section*.8}
-\contentsline {chapter}{致谢}{11}{chapter*.10}
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}测试}{12}{appendix.A}
-\contentsline {section}{\numberline {A.1}第一个测试}{12}{section.A.1}
-\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}附录测试}{13}{appendix.B}
-\contentsline {chapter}{\numberline {附录 C\hspace {.3em}}附录测试}{14}{appendix.C}
+\contentsline {section}{\numberline {2.5}参考文献的引用}{5}{section.2.5}
+\contentsline {section}{\numberline {2.6}玩转数学公式}{6}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}定理和公式的引用}{6}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}定义, 推论等环境的使用}{6}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}行内公式, 矩阵, 多行公式栗子}{6}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}化学方程式的使用}{7}{subsection.2.6.4}
+\contentsline {section}{\numberline {2.7}图的使用}{8}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}单图排版}{8}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}双图排版}{9}{subsection.2.7.2}
+\contentsline {section}{\numberline {2.8}表的使用}{9}{section.2.8}
+\contentsline {section}{\numberline {2.9}代码排版}{10}{section.2.9}
+\contentsline {subsection}{\numberline {2.9.1}伪代码排版}{10}{subsection.2.9.1}
+\contentsline {subsection}{\numberline {2.9.2}代码排版}{11}{subsection.2.9.2}
+\contentsline {chapter}{\numberline {第3章\hspace {.3em}}更新记录}{12}{chapter.3}
+\contentsline {chapter}{参考文献}{13}{section*.9}
+\contentsline {chapter}{致谢}{14}{chapter*.11}
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附录}{15}{appendix.A}
+\contentsline {section}{\numberline {A.1}一级标题}{15}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}二级标题}{15}{subsection.A.1.1}
+\contentsline {subsubsection}{\numberline {A.1.1.1}三级标题}{15}{subsubsection.A.1.1.1}
+\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}附录测试}{16}{appendix.B}

@@ -8,13 +8,13 @@
 %%%%%%% 下面的内容, 据实填空.
 
 
-\miji{绝密}                    % 密级. 没有就空着.
+\miji{一般}                    % 密级. 没有就空着.
 \StudentNumber{1060315024011} % 填写自己的学号
 \ClassNumber{TPXXX.xx}				%分类号
-\DepartNumber{06}				%单位代码，参考学校发的文件
+\DepartNumber{06}				%单位代码, 参考学校发的文件
 \title{本科毕业论文(设计)~\LaTeX~模板}
-\Titleo{基于卷积神经网络的} %长题目1 
-\Titlet{新闻分类系统}		%长题目2
+\Titleo{How to use YAUthesis} %题目1 第一行题目
+\Titlet{write your title}		%题目2 第二行题目(一行不够的情况下填写)
 \author{赵驰}                            % 作者名字
 \Csupervisor{马乐荣}        %指导教师中文名
 \PRAT{副教授} 							%指导教师职称professional ranks and titles
@@ -55,8 +55,8 @@
 
 利用~TexStudio~或者~VScode~, 可以更方便地管理这些文件:
 \begin{itemize}
-    \item TexStudio: 解压该压缩包，直接打开~tex~文件;
-    \item VScode: 解压该压缩包，按住~shift~在程序根目录中选择~open with VScode~;
+    \item TexStudio: 解压该压缩包, 直接打开~tex~文件;
+    \item VScode: 解压该压缩包, 按住~shift~在程序根目录中选择~open with VScode~;
 \end{itemize} 
 
  \section{使用步骤}
@@ -66,7 +66,7 @@
   \item[Step 1]  进入 includefile 文件夹,  打开 frontmatter.tex, backmatter.tex 这两个文档,
         分别填写 (1) 中文摘要、英文摘要, (2) 致谢.
 
-  \item[Step 2]  打开主文档 YAUthesis.tex, 填写题目、作者等等信息, 书写正文.
+  \item[Step 2]  打开主文档 YAUthesis.tex, 填写题目、作者等等信息, 书写正文. 如果论文标题太长, 请打开~YAUthesis.cls~这个文档， 去掉第80和81行最前面的\%.
 
   \item[Step 3]  使用 XeLaTeX 编译. 具体见 \ref{sec-compile} 节.
 
@@ -78,7 +78,7 @@
 
 默认使用 XeLaTeX 编译, 直接生成~pdf 文件.
 
-使用TexStudio+Texlive2018，配置方法见我博客.
+使用TexStudio+Texlive2018, 配置方法见我博客.
 
 
 
@@ -107,7 +107,7 @@
 \end{enumerate}
 %如果不是彩色打印机, 请在打印时, 选择将彩色打印为黑白, 否则彩色文字打出的墨迹会偏淡.
 
-\textbf{问}: {\kaishu 生成 PDF 文件时，不能去掉目录和文章的引用彩色方框，请问怎么解决？}
+\textbf{问}: {\kaishu 生成 PDF 文件时, 不能去掉目录和文章的引用彩色方框, 请问怎么解决？}
 
 \textbf{答}: {\kaishu 方框表示超级链接, 只在电脑上看得见. 实际打印时, 是没有的. 另外, 文档类型加选项 forprint 之后, 这些框框会隐掉的. }
 
@@ -156,7 +156,7 @@
 
 \section{列表的使用}
 
-列表是常用的文本格式。分别是编号的enumerate环境、不编号的itemize环境和使用关键字的description环境.
+列表是常用的文本格式. 分别是编号的enumerate环境、不编号的itemize环境和使用关键字的description环境.
 另外要说明的是,itemize, enumerate, description 这三种 list 环境, 已经调节了其间距和缩进,
 以符合中文书写的习惯.
 enumerate环境使用数字自动编号: 
@@ -218,14 +218,13 @@ description环境总是使用\verb|\item |命令的可选参数, 把它作为条
 双引号是由两个左单引号、两个右单引号构成的: \verb|``  ''|. 左单引号在键盘上数字~1 的左边.
 
 但是, 无论您偏向于全角或半角, 强烈建议您使用实心的句号, 只要您书写的是自然科学的文章.
-原因可能是因为, 比如使用全角句号的句子结尾处的``$x$。''容易误为数学式~$x_0$(\verb|$x_0$|)吧.
+原因可能是因为, 比如使用全角句号的句子结尾处的``$x$. ''容易误为数学式~$x_0$(\verb|$x_0$|)吧.
 
 
 
-\section{引用的问题}
+\section{参考文献的引用}
 
 
-\subsection{参考文献的引用}
 
 参考文献的引用, 用命令~\verb|\cite{ }|. 大括号内要填入的字串, 是自命名的文献条目名.
 
@@ -248,6 +247,9 @@ description环境总是使用\verb|\item |命令的可选参数, 把它作为条
 另外, 要得到形如~\cite{r1,r3,r4,r5} 的参考文献连续引用, 需要用到 cite 宏包(模板已经加入),
 在正文中使用~\verb|\cite{r1,r3,r4,r5}| 的引用形式即可.
 或者, 连续引用的上标形式: 使用~\verb|\upcite{r1,r2,r3}|, 得到\upcite{r1,r2,r3}.
+
+
+\section{玩转数学公式}
 
 \subsection{定理和公式的引用}
 
@@ -272,6 +274,7 @@ x = 1.
 
 定理~\ref{th-abcd} 是一个重大的发现.
 
+\subsection{定义, 推论等环境的使用}
 %%%%----- 定义等环境的举例 --------
 \begin{definition}[整数]
  正整数(例如 1, 2, 3)、负整数(例如 ${−1}$, $−2$, $−3$)与零(0)合起来统称为{\heiti 整数}.
@@ -293,10 +296,89 @@ x = 1.
    在整数集合内, 相加、相减、相乘运算是封闭的.
 \end{corollary}
 
+\subsection{行内公式, 矩阵, 多行公式栗子}
+%%%----行内公式, 矩阵, 多行公式举栗子--%%%
+在文中引用公式可以这么写：$a^2+b^2=c^2$这是勾股定理, 它还可以表示为$c=\sqrt{a^2+b^2}$, 还可以让公式单独一段并且加上编号
+\begin{equation}\label{eq-pingfanghe}
+\sin^2{\theta}+\cos^2{\theta}=1 
+\end{equation}
+还可以通过添加标签在正文中引用公式, 如式~\eqref{eq-pingfanghe}~
+我们还可以轻松打出一个矩阵
+\begin{equation}
+\bm{A}=\begin{bmatrix} %\bm为数学粗体 \hm为更粗的加重体数学负号
+1&2&3&4\\
+11&22&33&44\\
+\end{bmatrix}
+\times\begin{bmatrix}
+22&24\\
+32&34\\
+42&44\\
+52&54\\
+\end{bmatrix}
+\end{equation}
+
+或者多个带编号的公式
+
+\begin{gather}
+f_1(x)=12x^2+36x+\sin x\\
+f_2(x)=\sqrt{3}{x^3+3x}
+\end{gather}
+
+以上
+
+\subsection{化学方程式的使用} 
+
+化学方程式可以直接采用数学式输入, 例如: 
+三硝基甲苯(TNT)~C$_6$H$_2$CH$_3$(NO$_2$)$_3$
+为白色或苋色淡黄色针状结晶, 无臭, 有吸湿性. 
+本品为比较安全的炸药, 能耐受撞击和摩擦, 但任何量突然受热都能引起爆炸. 中等毒性. 
+
+很明显, 将化学方程式作为数学公式输入很复杂, 且十分笨拙. 所以我引入了mhchem宏包
+将问题简化. ~\verb|\ce|~命令用来输入化学方程式. 如: 醋中主要是 \ce{H2O}, 含有
+ \ce{CH3C00-}. \ce{^{277}_{90}Th}元素具有强放射性.
+
+ 化学反应式栗子如下:
+
+ \begin{gather} 
+   \ce{2H2 + O2 ->[\text{燃烧}] 2H2O} \\
+   \ce{N2 + 3H2 <=>T[高温、加压][催化剂] 2NH3}
+ \end{gather}
+
+有机化学式的书写, 先简单介绍一下~chemfig~方向的定义, 如图~\ref{fig:direction}: 
+
+\begin{figure}[ht]
+  \centering
+    \includegraphics[width=\imagewidth]{direction.png}
+    \caption{chemfig方向的定义}
+    \label{fig:direction}
+\end{figure}
+
+举个乙烷的栗子:
+
+\begin{center}
+  \chemfig{C(-[2]H)(-[4]H)(-[6]H)-C(-[2]H)(-[6]H)-H}
+\end{center}
+
+上述乙烷代码如下: 
+
+{\verb|\chemfig{C(-[2]H)(-[4]H)(-[6]H)-C(-[2]H)(-[6]H)-H}|}
+
+代码中 (-[X]Y) 内的数字 X 就表示了内容 Y 的位置，
+其中中括号（[ ]）的位置通常紧跟在化学键（-、= 等）之后。
+
+例如 2 表示的就是向上的方向，4 表示向左，6 表示向右。
+
+最后再画一个苯环结束:
+
+\begin{center}
+  \chemfig{*6(-=-=-=)}
+\end{center}
+
+
 \section{图的使用}
 
 支持EPS、PDF、PNG、JPEG、BMP格式的图片,
-当然也可以用绘图包直接在\LaTeX 中绘制图形, 推荐使用宏包tikz(本模板暂时未加)。
+当然也可以用绘图包直接在\LaTeX 中绘制图形, 推荐使用宏包tikz(本模板暂时未加). 
 
 \subsection{单图排版}
 
@@ -317,7 +399,7 @@ x = 1.
 双图排版很简单!
 
 
-\begin{figure}[!htb]
+\begin{figure}[ht]
 \centering
 \begin{minipage}[t]{\imagewidth}
 \centering
@@ -338,9 +420,9 @@ a) image ``Lenna''; b) cipher-image of a).}
 
 \section{表的使用}
 
-作为论文，推荐使用``三线表'', 如表 \ref{tab:1}. 进行排版。所谓三线表，
-即在标题前有横线，标题后有横线，表格最后还有横线，其他地方无线。当然这不是死规定，
-也可以根据需要在合适的地方加线。
+作为论文, 推荐使用``三线表'', 如表 \ref{tab:1}. 进行排版. 所谓三线表, 
+即在标题前有横线, 标题后有横线, 表格最后还有横线, 其他地方无线. 当然这不是死规定, 
+也可以根据需要在合适的地方加线. 
 
 
 
@@ -362,15 +444,46 @@ a) image ``Lenna''; b) cipher-image of a).}
     \end{tabular}
 \end{table}
 
+\section{代码排版}
 
+\subsection{伪代码排版}
 
+伪代码排版使用了algorithm2e，我们来看看算法\ref{qsort}（更多样例请google``algorithm2e''）：
 
+\begin{algorithm}[H]\label{qsort}
+    \SetAlgoLined
+    \KwData{this text}
+    \KwResult{how to write algorithm with \LaTeX2e }
+    initialization\;
+    \While{not at end of this document}{
+        read current\;
+        \eIf{understand}{
+            go to next section\;
+            current section becomes this one\;
+        }{
+            go back to the beginning of current section\;
+        }
+    }
+    \caption{How to write algorithms}
+\end{algorithm}
 
+\subsection{代码排版}
+
+Python AI引擎核心代码, 以下代码估值百亿! 
+\begin{lstlisting}[language=python, caption={一段估值百亿的AI核心代码ai.py}, label=ai]
+  while True:
+  print(input("").replace("吗","").replace("？","！"))
+\end{lstlisting}
 
 %%%%============================================================================================================%%%
 
 \chapter{更新记录}
-2019 年 02 月更新: 更新封面以适配延安大学论文要求; 更新标题格式; 更新目录格式; 适应TexLive2018版本; 删除英文封面; [数计学院2015级赵驰同学]
+2019 年 02 月更新: 更新封面以适配延安大学论文要求; 更新标题格式; 更新目录格式; 
+适应TexLive2018版本; 删除英文封面;添加booktabs宏包优化表格; 优化图片排版; 
+添加化学宏包mhchem, chemfig以及基本栗子; 
+添加多行公式、矩阵、行内公式栗子; 添加嵌套列表栗子; 
+引入最新伪代码宏包algorithm2e, 代码宏包listings以及基本栗子;
+[数计学院2015级赵驰同学]
 
 2016 年 06 月更新: 正文字体为小四号; 英文字体为 Times New Roman; 修订图表标题的字体、字号; 修订目录的字号; 修订附录章节编号的问题. 
                           非常感谢武汉大学数学与统计学院 2012 级张仕俊、林颖倩、宋俍辰等同学. 
@@ -395,16 +508,17 @@ a) image ``Lenna''; b) cipher-image of a).}
 \addcontentsline{toc}{chapter}{参考文献}
 \begin{thebibliography}{00}
 
-  \bibitem{r1} 作者. 文章题目 [J].  期刊名, 出版年份，卷号(期数): 起止页码.
+  \bibitem{r1} 作者. 文章题目 [J].  期刊名, 出版年份, 卷号(期数): 起止页码.
 
-  \bibitem{r2} 作者. 书名 [M]. 版次. 出版地：出版单位，出版年份：起止页码.
+  \bibitem{r2} 作者. 书名 [M]. 版次. 出版地：出版单位, 出版年份：起止页码.
 
   \bibitem{r3} 邓建松等, 《\LaTeXe~科技排版指南》, 科学出版社.
 
   \bibitem{r4} 吴凌云, 《CTeX~FAQ (常见问题集)》, \textit{Version~0.4}, June 21, 2004.
 
   \bibitem{r5} Herbert Vo\ss, Mathmode, \url{http://www.tex.ac.uk/ctan/info/math/voss/mathmode/Mathmode.pdf}.
-
+  
+  \bibitem{r6} 刘海洋. LATEX 入门[J]. 电子工业出版社, 北京, 2013.
 
 \end{thebibliography}
 
@@ -413,36 +527,21 @@ a) image ``Lenna''; b) cipher-image of a).}
 %%%-------------- 附录. 不需要可以删除.-----------
 \appendix
 
-\chapter{测试}
+\chapter{附录}
 
-\section{第一个测试}
-测试公式编号
-\begin{equation}
-1+1=2.
-\end{equation}
-
-表格编号测试
-
-\begin{table}[h]
-  \centering
-  \caption{测试表格}
-  \begin{tabular}{*{20}c}
-     \hline
-     % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
-     11 & 13  & 13  & 13  & 13 \\
-     12 & 14  & 13  & 13  & 13 \\
-     \hline
-   \end{tabular}
-\end{table}
+\section{一级标题}
+测试
+\subsection{二级标题}
+测试
+\subsubsection{三级标题}
+测试
 
 
 \chapter{附录测试}
 
 测试
 
-\chapter{附录测试}
 
-测试
 
 \cleardoublepage
 \end{document}

@@ -77,8 +77,8 @@
 			\begin{center}
 				\makebox[30mm][s]{\heiti 题目:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titleo}}\\
 				\vskip0.7cm
-				\makebox[30mm][s]{\heiti } \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titlet}}\\  %如果一行题目够用,释掉该行和下一行即可.
-				\vskip0.7cm
+				%\makebox[30mm][s]{\heiti } \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titlet}}\\  %如果一行题目够用,释掉该行和下一行即可.
+				%\vskip0.7cm
 				\makebox[30mm][s]{\heiti 专业:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Cmajor}}\\
 				\vskip0.7cm
 				\makebox[30mm][s]{\heiti 姓名:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\@author}}\\
@@ -125,12 +125,20 @@
 %%------------------------常用宏包-----------------------------------
 \RequirePackage{amsmath,amssymb}
 \RequirePackage[amsmath,thmmarks]{ntheorem}% AMSLaTeX宏包.
+\RequirePackage{bm}		%加入bm宏包，加入数学粗体
 \RequirePackage{graphicx}                 % 图形
 \RequirePackage{color,xcolor}             %支持彩色
 %\RequirePackage{mathrsfs}   % 不同于\mathcal or \mathfrak 之类的英文花体字体
 \RequirePackage{url}
 \RequirePackage{enumerate}
 \RequirePackage{booktabs} %控制表线 赵驰修改 2019.02
+%%-----------------------化学-----------赵驰修改 2019.02--------------- 
+\RequirePackage[version=4]{mhchem} %化学方程式 
+\RequirePackage{chemfig} %有机化学方程式 
+%%-----------------------代码块---------赵驰修改 2019.02---------------
+\RequirePackage{listings} % 代码块
+\usepackage[linesnumbered,ruled,vlined]{algorithm2e} % 伪代码排版
+\lstset{framexleftmargin=5mm, numbers=left, frameshape={RYRYNYYYY}{yny}{yny}{RYRYNYYYY}} % 代码块风格
 %%----------------------- Theorems -----------------------------------
 \theoremstyle{plain}
 \theoremheaderfont{\heiti}
