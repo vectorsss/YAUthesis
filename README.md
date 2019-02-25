@@ -36,7 +36,7 @@ vscode 需要两个插件: LaTeX language support和LaTeX Workshop.
 
 ### 环境安装
 
-这里只写windows安装过程, 对于mac和Linux用户而言, 安装软件肯定难不倒你们. 
+这里只写windows安装过程, 对于mac和Linux用户而言, 安装软件肯定难不倒你们. [mac安装步骤请移步这里][4]
 
 #### windows下Texlive2018的安装与配置
 
@@ -45,20 +45,20 @@ vscode 需要两个插件: LaTeX language support和LaTeX Workshop.
     TeX Live 的当前版本是 2018, 你可以从官方站点下载它们的安装包.
     
     [http://mirror.ctan.org/systems/texlive/Images/texlive2018.iso
-    ][4]
+    ][5]
     
     如果你发现下载速度很慢, 可以尝试清华大学和中国科技大学的镜像站. 
     
     [https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive2018.iso
-    ][5]
-    [https://mirrors.ustc.edu.cn/CTAN/systems/texlive/Images/texlive2018.iso][6]
+    ][6]
+    [https://mirrors.ustc.edu.cn/CTAN/systems/texlive/Images/texlive2018.iso][7]
 
 * 安装
     
     对于 Windows 8 及更高版本的微软用户, 可以直接加载下载得到的光盘镜像. (其他用户则需要下载虚拟光驱加载镜像)然后, 执行安装脚本, 将 TeX Live 安装在你的系统中. 
     
     Windows 用户右键单击 install-tl-advanced.bat, 以管理员权限执行; 
-    ![安装][7]
+    ![安装][8]
     按照上图所示选择好之后点击"安装 TeXLive", 接下来等就是了. 
     
     * 安装版本确认
@@ -75,20 +75,20 @@ vscode 需要两个插件: LaTeX language support和LaTeX Workshop.
 #### TeXstudio安装
 
 TeXstudio有很多按钮, 无需记住太多命令就可上手, 输入数学公式比较方便,比较适合小白. 如下图所示: 
-![TeXstudio界面][8]
+![TeXstudio界面][9]
 
 * 下载
 
-    下载地址: [http://texstudio.sourceforge.net/][9], 直接点击下载安装就可以. 
+    下载地址: [http://texstudio.sourceforge.net/][10], 直接点击下载安装就可以. 
 
 * 配置
 
     打开TexStudio->option->Configure TexStudio->Build, 设置成如下配置: 
     
-    ![TexStudio配置][10]
+    ![TexStudio配置][11]
     选中Commands, 设置成如下配置: 
     
-    ![命令设置][11]
+    ![命令设置][12]
     
     中文设置方法: 选中General将Language中的en改成zh_CN即可. 
     
@@ -98,7 +98,7 @@ TeXstudio有很多按钮, 无需记住太多命令就可上手, 输入数学公�
 
 VScode界面美观, 定制化很强, 如下所示: 
 
-![VScode界面][12]
+![VScode界面][13]
 
 * 下载安装
 
@@ -107,7 +107,7 @@ VScode界面美观, 定制化很强, 如下所示:
 * 插件配置
 
     点击左下角->settings,搜索<code>latex-workshop.latex.recipes</code>. 点击<code>Edit setttings.json</code>. 
-    ![vscode][13]
+    ![vscode][14]
     
     将下列代码复制粘贴到右边即可.
     
@@ -169,7 +169,7 @@ VScode界面美观, 定制化很强, 如下所示:
 
 ### 获取YAUthesis
 
-下载地址: [https://github.com/MLZC/YAUthesis/releases][14]
+下载地址: [https://github.com/MLZC/YAUthesis/releases][15]
 下载最新版本解压就可以.
 
 **注意: 文件所在路径和文件名不要有中文, 不然会编译失败.**
@@ -185,7 +185,7 @@ VScode界面美观, 定制化很强, 如下所示:
 3. 仔细阅读文件夹里面的YAUthesis.pdf; 
 4. 根据中文说明进行填空;
 5. 点击下图所示按钮编译并查看.
-![TexStudioBuild][15]
+![TexStudioBuild][16]
 
 #### VScode使用方法
 1. 打开VScode;
@@ -194,29 +194,31 @@ VScode界面美观, 定制化很强, 如下所示:
 4. 仔细阅读文件夹里面的YAUthesis.pdf; 
 5. 根据中文说明进行填空;
 6. 点击下图选项;
-![VScode1][16]
+![VScode1][17]
 7. 点击Build LaTeX project;
 8. 点开View LaTeX PDF->View in VSCode tap 如下图所示.
-![VScode2][17]
+![VScode2][18]
 
 ### 技术交流
 
 如有问题请在项目Issue模块提出, 或者邮件联系作者(dandanv5@hotmail.com).
 
+
   [1]: http://image.i-ll.cc/blog/20190214/7xUqY1aI0UlI.png
   [2]: http://image.i-ll.cc/blog/20190214/GmUG6niVGzYY.png
   [3]: https://github.com/MLZC/YAUthesis/releases/download/V0.1/YAUthesis-sample.pdf
-  [4]: http://mirror.ctan.org/systems/texlive/Images/texlive2018.iso
-  [5]: https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive2018.iso
-  [6]: https://mirrors.ustc.edu.cn/CTAN/systems/texlive/Images/texlive2018.iso
-  [7]: http://image.i-ll.cc/blog/20190214/VSAujx6AcK8I.png
-  [8]: http://image.i-ll.cc/blog/20190214/061opnbrvOqo.png
-  [9]: http://texstudio.sourceforge.net/
-  [10]: http://image.i-ll.cc/blog/20190214/rGuUhFMUQEJq.png
-  [11]: http://image.i-ll.cc/blog/20190214/3T7iDNvBBUL9.png
-  [12]: http://image.i-ll.cc/blog/20190214/9PFX385kxDp6.png
-  [13]: http://image.i-ll.cc/blog/20190214/jObJi1ifByoT.png
-  [14]: https://github.com/MLZC/YAUthesis/releases
-  [15]: http://image.i-ll.cc/blog/20190214/TfYcA3BXBIlH.png
-  [16]: http://image.i-ll.cc/blog/20190214/ITrDJ6W2WxRK.png
-  [17]: http://image.i-ll.cc/blog/20190214/JjAJ7BoBHw3o.png
+  [4]: https://github.com/StudentKe/HHTheTem
+  [5]: http://mirror.ctan.org/systems/texlive/Images/texlive2018.iso
+  [6]: https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive2018.iso
+  [7]: https://mirrors.ustc.edu.cn/CTAN/systems/texlive/Images/texlive2018.iso
+  [8]: http://image.i-ll.cc/blog/20190214/VSAujx6AcK8I.png
+  [9]: http://image.i-ll.cc/blog/20190214/061opnbrvOqo.png
+  [10]: http://texstudio.sourceforge.net/
+  [11]: http://image.i-ll.cc/blog/20190214/rGuUhFMUQEJq.png
+  [12]: http://image.i-ll.cc/blog/20190214/3T7iDNvBBUL9.png
+  [13]: http://image.i-ll.cc/blog/20190214/9PFX385kxDp6.png
+  [14]: http://image.i-ll.cc/blog/20190214/jObJi1ifByoT.png
+  [15]: https://github.com/MLZC/YAUthesis/releases
+  [16]: http://image.i-ll.cc/blog/20190214/TfYcA3BXBIlH.png
+  [17]: http://image.i-ll.cc/blog/20190214/ITrDJ6W2WxRK.png
+  [18]: http://image.i-ll.cc/blog/20190214/JjAJ7BoBHw3o.png
