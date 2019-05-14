@@ -1,6 +1,6 @@
 % !Mode:: "TeX:UTF-8"
 \NeedsTeXFormat{LaTeX2e}[1999/12/01]
-\ProvidesClass{YAUthesis}[2016/05/31 4.0 Wuhan University Thesis Template for Bachelor Degree]
+\ProvidesClass{YAUthesis}[2019/05/14 v0.2 Yanan University Thesis Template for Bachelor Degree]
 \LoadClass[zihao=-4,a4paper,oneside]{ctexbook}
 \setmainfont{Times New Roman}
 
@@ -21,7 +21,7 @@
 \else
 \hypersetup{citecolor=magenta,linkcolor=blue}
 \fi
-\RequirePackage[top=2.7truecm,bottom=2.2truecm,left=3truecm,right=3truecm,includefoot,xetex]{geometry}    % 页面设置%
+\RequirePackage[top=2.5truecm,bottom=2.5truecm,left=2.75truecm,right=2.5truecm,includefoot,xetex]{geometry}    % 页面设置%
 
 
 \newtoks\StudentNumber   %学号
@@ -34,6 +34,8 @@
 \newtoks\Cschoolname      %学院中文名
 \newtoks\Csupervisor     %指导教师中文名
 \newtoks\PRAT            %指导教师职称(professional ranks and titles)
+\newtoks\abstractCn		%中文摘要名称
+\newtoks\abstractEn 	%英文摘要名称
 
 
 \pagestyle{fancyplain}
@@ -59,9 +61,9 @@
 		{\heiti \zihao{5}%
 			
 			\begin{flushleft}
-				\makebox[17mm][s]{\heiti 学院代码:}\underline{\makebox[35mm][c]{\the\DepartNumber}}\hfill\makebox[17mm][s]{\heiti 学号:}\underline{\makebox[35mm][c]{\the\StudentNumber}}\\
+				\makebox[17mm][s]{\heiti 分类号:}\underline{\makebox[35mm][c]{\the\ClassNumber}}\hfill\makebox[17mm][s]{\heiti 单位代码:}\underline{\makebox[35mm][c]{\the\DepartNumber}}\\
 				\vskip0.2cm
-				\makebox[17mm][s]{\heiti 分类号:}\underline{\makebox[35mm][c]{\the\ClassNumber}}\hfill\makebox[17mm][s]{\heiti 密级:}\underline{\makebox[35mm][c]{\the\miji}}
+				\makebox[17mm][s]{\heiti 密级:}\underline{\makebox[35mm][c]{\the\miji}}\hfill\makebox[17mm][s]{\heiti 学号:}\underline{\makebox[35mm][c]{\the\StudentNumber}}
 			\end{flushleft}
 		}
 		\par
@@ -101,8 +103,8 @@
 
 
 %------------------------ Abstract & Keywords -------------------------
-\newcommand\cnabstractname{摘要} 
-\newcommand\enabstractname{ABSTRACT}
+\newcommand\cnabstractname{\the\abstractCn} 
+\newcommand\enabstractname{\the\abstractEn}
 \newcommand\cnkeywords[1]{ {\noindent\heiti\zihao{-4}\cnkeywordsname: }#1}
 \newcommand\cnkeywordsname{关键词}
 \newcommand\enkeywords[1]{ {\noindent\bfseries\zihao{-4}\enkeywordsname: }#1}
@@ -110,7 +112,7 @@
 
 \newenvironment{cnabstract}{
 	\newpage
-	\chapter[\cnabstractname]{\ziju{2}{\cnabstractname}}   %%%终于解决了书签乱码的问题 2005-04-12.huangzh
+	\chapter[\cnabstractname]{{\cnabstractname}}   %%%终于解决了书签乱码的问题 2005-04-12.huangzh
 	\songti\zihao{-4}
 	\@afterheading}
 {\par}
@@ -139,6 +141,8 @@
 \RequirePackage{listings} % 代码块
 \usepackage[linesnumbered,ruled,vlined]{algorithm2e} % 伪代码排版
 \lstset{framexleftmargin=5mm, numbers=left, frameshape={RYRYNYYYY}{yny}{yny}{RYRYNYYYY}} % 代码块风格
+%%--------------------------------------赵驰修改 2019.05-----------
+\RequirePackage{float} %用于固定图片
 %%----------------------- Theorems -----------------------------------
 \theoremstyle{plain}
 \theoremheaderfont{\heiti}
