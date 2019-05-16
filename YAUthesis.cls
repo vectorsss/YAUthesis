@@ -105,9 +105,9 @@
 %------------------------ Abstract & Keywords -------------------------
 \newcommand\cnabstractname{\the\abstractCn} 
 \newcommand\enabstractname{\the\abstractEn}
-\newcommand\cnkeywords[1]{ {\noindent\heiti\zihao{-4}\cnkeywordsname: }#1}
+\newcommand\cnkeywords[1]{ {\heiti\zihao{-4}\cnkeywordsname: }#1} %%%2019-05-16. 赵驰 如果学校规定摘要不缩进， 则添加\noindent在\heiti之前
 \newcommand\cnkeywordsname{关键词}
-\newcommand\enkeywords[1]{ {\noindent\bfseries\zihao{-4}\enkeywordsname: }#1}
+\newcommand\enkeywords[1]{ {\bfseries\zihao{-4}\enkeywordsname: }#1}
 \newcommand\enkeywordsname{Key words}
 
 \newenvironment{cnabstract}{
