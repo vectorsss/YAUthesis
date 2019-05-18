@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.5.2)  16 MAY 2019 09:54
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.5.2)  18 MAY 2019 12:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2110,19 +2110,22 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 * ctex warning: "deprecated-command"
 * 
 * Command \CTEXsetup is deprecated.
-* \ctexset { chapter = { nameformat={\heiti \zihao {3}} } } is set.
+* \ctexset { chapter = { nameformat={\bfseries \sffamily \zihao {3}} } } is
+* set.
 *************************************************
 *************************************************
 * ctex warning: "deprecated-command"
 * 
 * Command \CTEXsetup is deprecated.
-* \ctexset { chapter = { titleformat={\heiti \zihao {3}} } } is set.
+* \ctexset { chapter = { titleformat={\bfseries \sffamily \zihao {3}} } } is
+* set.
 *************************************************
 *************************************************
 * ctex warning: "deprecated-command"
 * 
 * Command \CTEXsetup is deprecated.
-* \ctexset { chapter = { numberformat={\heiti \zihao {3}} } } is set.
+* \ctexset { chapter = { numberformat={\bfseries \sffamily \zihao {3}} } } is
+* set.
 *************************************************
 *************************************************
 * ctex warning: "deprecated-command"
@@ -2140,8 +2143,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 * ctex warning: "deprecated-command"
 * 
 * Command \CTEXsetup is deprecated.
-* \ctexset { section = { format={\flushleft \sffamily \heiti \zihao {4}} } }
-* is set.
+* \ctexset { section = { format={\flushleft \bfseries \sffamily \zihao {4}} }
+* } is set.
 *************************************************
 *************************************************
 * ctex warning: "deprecated-command"
@@ -2153,8 +2156,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 * ctex warning: "deprecated-command"
 * 
 * Command \CTEXsetup is deprecated.
-* \ctexset { subsection = { format={\flushleft \sffamily \heiti \zihao {-4}} }
-* } is set.
+* \ctexset { subsection = { format={\flushleft \bfseries \sffamily \zihao
+* {-4}} } } is set.
 *************************************************
 *************************************************
 * ctex warning: "deprecated-command"
@@ -2166,7 +2169,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 * ctex warning: "deprecated-command"
 * 
 * Command \CTEXsetup is deprecated.
-* \ctexset { subsubsection = { format={\flushleft \sffamily \heiti \zihao
+* \ctexset { subsubsection = { format={\flushleft \bfseries \sffamily \zihao
 * {-4}} } } is set.
 *************************************************
 *************************************************
@@ -2381,36 +2384,8 @@ Package caption Info: End \AtBeginDocument code.
  (e:/texlive/2018/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 )
-\g__fontspec_family_SimHei_int=\count376
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimHei/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimHei/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimHei/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimHei(0)' created for font 'SimHei' with options
-. [Script={CJK}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.: <->"SimHei/OT:script=hani;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
-
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimHei(0)/m/n/10.53937 分 类 号\TU/TimesNewRoman(0)/m/n/10.53937 :
+\TU/SimSun(0)/bx/n/12.045 分 类 号\TU/TimesNewRoman(0)/bx/n/12.045 :
  []
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 29.
@@ -2421,18 +2396,18 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 29.
  (e:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 2035) detected at line 29
-\TU/SimHei(0)/m/n/10.53937 单 位 代 码\TU/TimesNewRoman(0)/m/n/10.53937 :
+Overfull \hbox (3.8214pt too wide) detected at line 29
+\TU/SimSun(0)/bx/n/12.045 单 位 代 码\TU/TimesNewRoman(0)/bx/n/12.045 :
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimHei(0)/m/n/10.53937 密 级\TU/TimesNewRoman(0)/m/n/10.53937 :
+\TU/SimSun(0)/bx/n/12.045 密 级\TU/TimesNewRoman(0)/bx/n/12.045 :
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimHei(0)/m/n/10.53937 学 号\TU/TimesNewRoman(0)/m/n/10.53937 :
+\TU/SimSun(0)/bx/n/12.045 学 号\TU/TimesNewRoman(0)/bx/n/12.045 :
  []
 
 Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
@@ -9500,88 +9475,51 @@ Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
 File: figures/yadx.eps Graphic file (type eps)
 <figures/yadx.eps>
+\g__fontspec_family_SimHei_int=\count376
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "SimSun/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimSun/B" (it probably doesn't exist).
+. Could not resolve font "SimHei/BI" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "SimSun/I" (it probably doesn't exist).
+. Could not resolve font "SimHei/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimHei/I" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'SimSun(1)' created for font 'SimSun' with options
+. Font family 'SimHei(0)' created for font 'SimHei' with options
 . [Script={CJK}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.: <->"SimSun/OT:script=hani;language=DFLT;"
+. - 'normal' (m/n) with NFSS spec.: <->"SimHei/OT:script=hani;language=DFLT;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimHei(0)/m/n/15.05624 题 目\TU/TimesNewRoman(0)/m/n/15.05624 :
- []
-
-\g__fontspec_family_FangSong_int=\count377
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "FangSong/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "FangSong/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "FangSong/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'FangSong(0)' created for font 'FangSong' with options
-. [Script={CJK}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <->"FangSong/OT:script=hani;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
-
-Underfull \hbox (badness 10000) detected at line 29
-\TU/SimHei(0)/m/n/15.05624 专 业\TU/TimesNewRoman(0)/m/n/15.05624 :
+\TU/SimSun(0)/bx/n/18.06749 题 目\TU/TimesNewRoman(0)/bx/n/18.06749 :
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimHei(0)/m/n/15.05624 姓 名\TU/TimesNewRoman(0)/m/n/15.05624 :
+\TU/SimSun(0)/bx/n/18.06749 专 业\TU/TimesNewRoman(0)/bx/n/18.06749 :
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimHei(0)/m/n/15.05624 指 导 教 师\TU/TimesNewRoman(0)/m/n/15.05624 :
+\TU/SimSun(0)/bx/n/18.06749 姓 名\TU/TimesNewRoman(0)/bx/n/18.06749 :
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimHei(0)/m/n/15.05624 职 称\TU/TimesNewRoman(0)/m/n/15.05624 :
- []
-
-
-Underfull \hbox (badness 10000) detected at line 29
-\TU/SimHei(0)/m/n/15.05624 答 辩 日 期\TU/TimesNewRoman(0)/m/n/15.05624 :
+\TU/SimSun(0)/bx/n/18.06749 职 称\TU/TimesNewRoman(0)/bx/n/18.06749 :
  []
 
 [1
@@ -9603,7 +9541,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
 
 ]
-\g__fontspec_family_MicrosoftYaHei_int=\count378
+\g__fontspec_family_MicrosoftYaHei_int=\count377
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -9632,6 +9570,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 . YaHei/BI/OT:script=hani;language=DFLT;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimSun/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimSun/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "SimSun/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimSun(1)' created for font 'SimSun' with options
+. [Script={CJK}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"SimSun/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
  [2
 
 ]) [3
@@ -9644,6 +9608,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  [5]
 第1章
+\g__fontspec_family_FangSong_int=\count378
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "FangSong/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "FangSong/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "FangSong/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FangSong(0)' created for font 'FangSong' with options
+. [Script={CJK}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"FangSong/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
 [1
 
 
@@ -9676,26 +9668,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 .................................................
  [2]
 第2章
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12.045> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 136.
+
+LaTeX Font Warning: Font shape `TU/FangSong(0)/bx/n' undefined
+(Font)              using `TU/FangSong(0)/m/n' instead on input line 136.
+
+
+LaTeX Font Warning: Font shape `TU/SimSun(0)/bx/it' undefined
+(Font)              using `TU/SimSun(0)/bx/n' instead on input line 138.
+
 [3
 
-] [4]
-Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 259.
-Package hyperref Info: bookmark level for unknown proof defaults to 0 on input line 264.
-Package hyperref Info: bookmark level for unknown definition defaults to 0 on input line 282.
- [5]
-Package hyperref Info: bookmark level for unknown remark defaults to 0 on input line 287.
-Package hyperref Info: bookmark level for unknown proposition defaults to 0 on input line 291.
-Package hyperref Info: bookmark level for unknown example defaults to 0 on input line 295.
-Package hyperref Info: bookmark level for unknown corollary defaults to 0 on input line 299.
-
-Overfull \hbox (9.96747pt too wide) in paragraph at lines 339--342
+] [4] [5]
+Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 264.
+Package hyperref Info: bookmark level for unknown proof defaults to 0 on input line 269.
+Package hyperref Info: bookmark level for unknown definition defaults to 0 on input line 287.
+Package hyperref Info: bookmark level for unknown remark defaults to 0 on input line 292.
+Package hyperref Info: bookmark level for unknown proposition defaults to 0 on input line 296.
+Package hyperref Info: bookmark level for unknown example defaults to 0 on input line 300.
+Package hyperref Info: bookmark level for unknown corollary defaults to 0 on input line 304.
+ [6]
+Overfull \hbox (9.96747pt too wide) in paragraph at lines 344--347
 []\TU/SimSun(0)/m/n/12.045 很 明 显\TU/TimesNewRoman(0)/m/n/12.045 , \TU/SimSun(0)/m/n/12.045 将 化 学 方 程 式 作 为 数 学 公 式 输 入 很 复 杂\TU/TimesNewRoman(0)/m/n/12.045 , \TU/SimSun(0)/m/n/12.045 且 十 分 笨 拙\TU/TimesNewRoman(0)/m/n/12.045 . \TU/SimSun(0)/m/n/12.045 所 以 我 引 入 了 \TU/TimesNewRoman(0)/m/n/12.045 mhchem
  []
 
-[6]
 File: figures/direction.png Graphic file (type bmp)
 <figures/direction.png>
- [7]
+[7]
 File: figures/texlion.jpg Graphic file (type bmp)
 <figures/texlion.jpg>
 File: figures/Lenna.pdf Graphic file (type pdf)
@@ -9703,20 +9703,20 @@ File: figures/Lenna.pdf Graphic file (type pdf)
 File: figures/Lenna_e.pdf Graphic file (type pdf)
 <use figures/Lenna_e.pdf>
  [8]
-Overfull \hbox (7.24219pt too wide) in paragraph at lines 454--455
+Overfull \hbox (7.24219pt too wide) in paragraph at lines 459--460
 []\TU/SimSun(0)/m/n/12.045 伪 代 码 排 版 使 用 了 \TU/TimesNewRoman(0)/m/n/12.045 algorithm2e\TU/SimSun(0)/m/n/12.045 ，|  我 们 来 看 看 算 法[]\TU/TimesNewRoman(0)/m/n/12.045 1[] |\TU/SimSun(0)/m/n/12.045 （更 多 样 例 请 \TU/TimesNewRoman(0)/m/n/12.045 google“algorithm2e”\TU/SimSun(0)/m/n/12.045 ） ：| 
  []
 
-(e:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+[9] (e:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
-) [9]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 476.
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 481.
  [10]
 第3章
 [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 522--523
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
 []\TU/TimesNewRoman(0)/m/n/12.045 Herbert Voß, Mathmode, []$[][][][] [] [] [] [][][] [] [][][] [] [][] [] [][] [] [][][][] [] [][][][] [] [][][][] [] [][][][] []
  []
 
@@ -9742,21 +9742,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 522--523
 \tf@thm=\write6
 \openout6 = `YAUthesis.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 550.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 550.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 557.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 557.
  (./YAUthesis.aux (./includefile/frontmatter.aux) (./includefile/backmatter.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 550.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 550.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 557.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 557.
 Package rerunfilecheck Info: File `YAUthesis.out' has not changed.
 (rerunfilecheck)             Checksum: C35C72E1D86932DA1DF4CBDA36799ADF.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 550.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 557.
  ) 
 Here is how much of TeX's memory you used:
- 40399 strings out of 492970
- 823007 string characters out of 6137299
- 921557 words of memory out of 5000000
- 43758 multiletter control sequences out of 15000+600000
- 561630 words of font info for 212 fonts, out of 8000000 for 9000
+ 40372 strings out of 492970
+ 822906 string characters out of 6137299
+ 925063 words of memory out of 5000000
+ 43738 multiletter control sequences out of 15000+600000
+ 553587 words of font info for 184 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  69i,24n,85p,25904b,1166s stack positions out of 5000i,500n,10000p,200000b,80000s
 

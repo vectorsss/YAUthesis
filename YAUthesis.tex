@@ -12,9 +12,9 @@
 \StudentNumber{1060315024011} % 填写自己的学号
 \ClassNumber{TPXXX.xx}				%分类号
 \DepartNumber{06}				%单位代码, 参考学校发的文件
-\title{本科毕业论文(设计)~\LaTeX~模板}
+\title{本科毕业论文(设计)}
 \Titleo{How to use YAUthesis} %题目1 第一行题目
-\Titlet{write your title}		%题目2 第二行题目(一行不够的情况下填写) 需要取去掉YAUthesis.cls中 82 83行前面的%
+\Titlet{Happy ~\LaTeX~ing}		%题目2 第二行题目(一行不够的情况下填写) 需要取去掉YAUthesis.cls中 82 83行前面的%
 \author{赵驰}                            % 作者名字
 \Csupervisor{马乐荣}        %指导教师中文名
 \PRAT{副教授} 							%指导教师职称professional ranks and titles
@@ -129,9 +129,14 @@ Windows用户使用TexStudio+Texlive2018或VScode+Texlive2018, 配置方法见�
 
 \begin{tabular}{ll}
 	\verb|\songti|   & {\songti 宋体}   \\
-	\verb|\heiti|    & {\heiti 黑体}    \\
-	\verb|\fangsong| & {\fangsong 仿宋} \\
-  \verb|\kaishu|   & {\kaishu 楷书}   \\
+	\verb|\bfseries|    & {\bfseries 粗宋体}    \\
+	\verb|\sffamily| & {\sffamily 黑体} \\
+	\verb|\bfseries\sffamily| & {\bfseries\sffamily 粗黑体} \\
+  \verb|\ttfamily|   & {\ttfamily 仿宋}   \\
+  \verb|\bfseries\ttfamily|   & {\bfseries\ttfamily 粗仿宋}   \\
+  \verb|\itshape|   & {\itshape 楷书}   \\
+  \verb|\bfseries\itshape|   & {\bfseries\itshape 粗楷书}   \\
+
 \end{tabular}
 \textbf{}
 
@@ -481,6 +486,8 @@ Python AI引擎核心代码, 以下代码估值百亿!
 %%%%============================================================================================================%%%
 
 \chapter{更新记录}
+2019 年 05 月更新: 更新封面字体格式, 大小, 完善正文中的字体切换命令; 更新标题格式为黑体加粗; 
+
 2019 年 02 月更新: 更新封面以适配延安大学论文要求; 更新标题格式; 更新目录格式; 
 适应TexLive2018版本; 删除英文封面;添加booktabs宏包优化表格; 优化图片排版; 
 添加化学宏包mhchem, chemfig以及基本栗子; 

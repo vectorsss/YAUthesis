@@ -57,13 +57,14 @@
 	\null
 	\thispagestyle{empty}%
 	%\vspace*{-2cm}
+		
 	\begin{center}\leavevmode
-		{\heiti \zihao{5}%
+		{\bfseries \zihao{-4}%
 			
 			\begin{flushleft}
-				\makebox[17mm][s]{\heiti 分类号:}\underline{\makebox[35mm][c]{\the\ClassNumber}}\hfill\makebox[17mm][s]{\heiti 单位代码:}\underline{\makebox[35mm][c]{\the\DepartNumber}}\\
+				\makebox[17mm][s]{\bfseries 分类号:}\underline{\makebox[35mm][c]{\bfseries \the\ClassNumber}}\hfill\makebox[17mm][s]{\bfseries 单位代码:}\underline{\makebox[35mm][c]{\bfseries \the\DepartNumber}}\\
 				\vskip0.2cm
-				\makebox[17mm][s]{\heiti 密级:}\underline{\makebox[35mm][c]{\the\miji}}\hfill\makebox[17mm][s]{\heiti 学号:}\underline{\makebox[35mm][c]{\the\StudentNumber}}
+				\makebox[17mm][s]{\bfseries 密级:}\underline{\makebox[35mm][c]{\bfseries \the\miji}}\hfill\makebox[17mm][s]{\bfseries 学号:}\underline{\makebox[35mm][c]{\bfseries \the\StudentNumber}}
 			\end{flushleft}
 		}
 		\par
@@ -71,25 +72,27 @@
 		\begin{center}
 			\includegraphics[height=2cm]{yadx.eps}   
 		\end{center}
+		%\vspace{2.6cm}
+		{\heiti \zihao{-0} \@title \\}%
 		\vspace{2.6cm}
-		{\heiti \zihao{1} \@title \\}%
+
 		%    \vspace{4cm}
 		\vfill\vfill\vfill
-		{\songti\zihao{-3}
+		{\bfseries\zihao{-2}
 			\begin{center}
-				\makebox[30mm][s]{\heiti 题目:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titleo}}\\
+				\makebox[30mm][s]{\bfseries 题目:} \underline{\makebox[87mm][c]{\bfseries \the\Titleo}}\\
 				\vskip0.7cm
-				%\makebox[30mm][s]{\heiti } \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Titlet}}\\  %如果一行题目够用,释掉该行和下一行即可.
-				%\vskip0.7cm
-				\makebox[30mm][s]{\heiti 专业:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Cmajor}}\\
+				\makebox[30mm][s]{\bfseries } \underline{\makebox[87mm][c]{\bfseries \the\Titlet}}\\  %如果一行题目够用,释掉该行和下一行即可.
 				\vskip0.7cm
-				\makebox[30mm][s]{\heiti 姓名:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\@author}}\\
+				\makebox[30mm][s]{\bfseries 专业:} \underline{\makebox[87mm][c]{\bfseries \the\Cmajor}}\\
 				\vskip0.7cm
-				\makebox[30mm][s]{\heiti 指导教师:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\Csupervisor}}\\
+				\makebox[30mm][s]{\bfseries 姓名:} \underline{\makebox[87mm][c]{\bfseries \@author}}\\
 				\vskip0.7cm
-				\makebox[30mm][s]{\heiti 职称:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\the\PRAT}} \\
+				\makebox[30mm][s]{\bfseries 指导教师:} \underline{\makebox[87mm][c]{\bfseries \the\Csupervisor}}\\
 				\vskip0.7cm
-				\makebox[30mm][s]{\heiti 答辩日期:} \underline{\makebox[87mm][c]{\fangsong\zihao{3}\@date}}
+				\makebox[30mm][s]{\bfseries 职称:} \underline{\makebox[87mm][c]{\bfseries \the\PRAT}} \\
+				\vskip0.7cm
+				\makebox[30mm][s]{\bfseries 答辩日期:} \underline{\makebox[87mm][c]{\bfseries \@date}}
 			\end{center}
 		}
 		
@@ -101,11 +104,10 @@
 	%   \cleardoublepage
 }
 
-
 %------------------------ Abstract & Keywords -------------------------
 \newcommand\cnabstractname{\the\abstractCn} 
 \newcommand\enabstractname{\the\abstractEn}
-\newcommand\cnkeywords[1]{ {\heiti\zihao{-4}\cnkeywordsname: }#1} %%%2019-05-16. 赵驰 如果学校规定摘要不缩进， 则添加\noindent在\heiti之前
+\newcommand\cnkeywords[1]{ {\heiti\zihao{-4}\cnkeywordsname: }#1} %%%赵驰2019/05/16 如果学校要求关键字不缩进， 在\heiti前面添加\noindent
 \newcommand\cnkeywordsname{关键词}
 \newcommand\enkeywords[1]{ {\bfseries\zihao{-4}\enkeywordsname: }#1}
 \newcommand\enkeywordsname{Key words}
@@ -237,19 +239,19 @@
 %%% ---- 章节标题设置 ----- %%%%
 
 \CTEXsetup[format={\centering\sffamily}]{chapter}
-\CTEXsetup[nameformat={\heiti\zihao{3}}]{chapter}
-\CTEXsetup[titleformat={\heiti\zihao{3}}]{chapter}
-\CTEXsetup[numberformat={\heiti\zihao{3}}]{chapter}
+\CTEXsetup[nameformat={\bfseries\sffamily\zihao{3}}]{chapter}
+\CTEXsetup[titleformat={\bfseries\sffamily\zihao{3}}]{chapter}
+\CTEXsetup[numberformat={\bfseries\sffamily\zihao{3}}]{chapter}
 \CTEXsetup[beforeskip={0pt},afterskip={30pt}]{chapter}
 \CTEXsetup[name={第, 章},number={\arabic{chapter}}]{chapter}
 
-\CTEXsetup[format={\flushleft\sffamily\heiti\zihao{4}}]{section}
+\CTEXsetup[format={\flushleft\bfseries\sffamily\zihao{4}}]{section}
 \CTEXsetup[beforeskip={24pt},afterskip={6pt}]{section}
 
-\CTEXsetup[format={\flushleft\sffamily\heiti\zihao{-4}}]{subsection}
+\CTEXsetup[format={\flushleft\bfseries\sffamily\zihao{-4}}]{subsection}
 \CTEXsetup[beforeskip={12pt},afterskip={6pt}]{subsection}
 
-\CTEXsetup[format={\flushleft\sffamily\heiti\zihao{-4}}]{subsubsection}
+\CTEXsetup[format={\flushleft\bfseries\sffamily\zihao{-4}}]{subsubsection}
 \CTEXsetup[beforeskip={12pt},afterskip={6pt}]{subsubsection}
 
 \setcounter{tocdepth}{4}
