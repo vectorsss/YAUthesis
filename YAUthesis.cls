@@ -62,9 +62,9 @@
 		{\bfseries \zihao{-4}%
 			
 			\begin{flushleft}
-				\makebox[17mm][s]{\bfseries 分类号:}\underline{\makebox[35mm][c]{\bfseries \the\ClassNumber}}\hfill\makebox[17mm][s]{\bfseries 单位代码:}\underline{\makebox[35mm][c]{\bfseries \the\DepartNumber}}\\
+				\makebox[18mm][s]{分类号:}\underline{\makebox[35mm][c]{\the\ClassNumber}}\hfill\makebox[18mm][s]{单位代码:}\underline{\makebox[35mm][c]{\the\DepartNumber}}\\
 				\vskip0.2cm
-				\makebox[17mm][s]{\bfseries 密级:}\underline{\makebox[35mm][c]{\bfseries \the\miji}}\hfill\makebox[17mm][s]{\bfseries 学号:}\underline{\makebox[35mm][c]{\bfseries \the\StudentNumber}}
+				\makebox[18mm][s]{密级:}\underline{\makebox[35mm][c]{\the\miji}}\hfill\makebox[18mm][s]{学号:}\underline{\makebox[35mm][c]{\the\StudentNumber}}
 			\end{flushleft}
 		}
 		\par
