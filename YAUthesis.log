@@ -1,25 +1,24 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.5.2)  18 MAY 2019 16:13
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.12.18)  14 MAR 2020 13:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**f:/Documents/Github/YAUthesis/YAUthesis
-(f:/Documents/Github/YAUthesis/YAUthesis.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+**/Users/zhaochi/Project/YAUthesis/YAUthesis
+(/Users/zhaochi/Project/YAUthesis/YAUthesis.tex
+LaTeX2e <2018-12-01>
 (./YAUthesis.cls
-Document Class: YAUthesis 2019/05/14 v0.2 Yanan University Thesis Template for Bachelor Degree
-(e:/texlive/2018/texmf-dist/tex/latex/ctex/ctexbook.cls (e:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018/03/05 L3 programming layer (loader) 
- (e:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2018/03/05 L3 programming layer (code)
+Document Class: YAUthesis 2019/05/14 v1.1 Yanan University Thesis Template for Bachelor Degree
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctexbook.cls (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-05-07 L3 programming layer (loader) 
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-05-07 L3 programming layer (code)
 \c_max_int=\count80
 \l_tmpa_int=\count81
 \l_tmpb_int=\count82
 \g_tmpa_int=\count83
 \g_tmpb_int=\count84
-\g__intarray_font_int=\count85
-\g__prg_map_int=\count86
+\g__kernel_prg_map_int=\count85
+\c__ior_term_ior=\count86
 \c_log_iow=\count87
 \l_iow_line_count_int=\count88
 \l__iow_line_target_int=\count89
@@ -44,194 +43,190 @@ Package: expl3 2018/03/05 L3 programming layer (code)
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
 \l_keys_choice_int=\count92
-\c__fp_leading_shift_int=\count93
-\c__fp_middle_shift_int=\count94
-\c__fp_trailing_shift_int=\count95
-\c__fp_big_leading_shift_int=\count96
-\c__fp_big_middle_shift_int=\count97
-\c__fp_big_trailing_shift_int=\count98
-\c__fp_Bigg_leading_shift_int=\count99
-\c__fp_Bigg_middle_shift_int=\count100
-\c__fp_Bigg_trailing_shift_int=\count101
-\l__sort_length_int=\count102
-\l__sort_min_int=\count103
-\l__sort_top_int=\count104
-\l__sort_max_int=\count105
-\l__sort_true_max_int=\count106
-\l__sort_block_int=\count107
-\l__sort_begin_int=\count108
-\l__sort_end_int=\count109
-\l__sort_A_int=\count110
-\l__sort_B_int=\count111
-\l__sort_C_int=\count112
-\l__tl_build_start_index_int=\count113
-\l__tl_build_index_int=\count114
-\l__tl_analysis_normal_int=\count115
-\l__tl_analysis_index_int=\count116
-\l__tl_analysis_nesting_int=\count117
-\l__tl_analysis_type_int=\count118
-\l__regex_internal_a_int=\count119
-\l__regex_internal_b_int=\count120
-\l__regex_internal_c_int=\count121
-\l__regex_balance_int=\count122
-\l__regex_group_level_int=\count123
-\l__regex_mode_int=\count124
-\c__regex_cs_in_class_mode_int=\count125
-\c__regex_cs_mode_int=\count126
-\l__regex_catcodes_int=\count127
-\l__regex_default_catcodes_int=\count128
-\c__regex_catcode_L_int=\count129
-\c__regex_catcode_O_int=\count130
-\c__regex_catcode_A_int=\count131
-\c__regex_all_catcodes_int=\count132
-\l__regex_show_lines_int=\count133
-\l__regex_min_state_int=\count134
-\l__regex_max_state_int=\count135
-\l__regex_left_state_int=\count136
-\l__regex_right_state_int=\count137
-\l__regex_capturing_group_int=\count138
-\l__regex_min_pos_int=\count139
-\l__regex_max_pos_int=\count140
-\l__regex_curr_pos_int=\count141
-\l__regex_start_pos_int=\count142
-\l__regex_success_pos_int=\count143
-\l__regex_curr_char_int=\count144
-\l__regex_curr_catcode_int=\count145
-\l__regex_last_char_int=\count146
-\l__regex_case_changed_char_int=\count147
-\l__regex_curr_state_int=\count148
-\l__regex_step_int=\count149
-\l__regex_min_active_int=\count150
-\l__regex_max_active_int=\count151
-\l__regex_replacement_csnames_int=\count152
-\l__regex_match_count_int=\count153
-\l__regex_min_submatch_int=\count154
-\l__regex_submatch_int=\count155
-\l__regex_zeroth_submatch_int=\count156
-\g__regex_trace_regex_int=\count157
-\c_empty_box=\box26
-\l_tmpa_box=\box27
-\l_tmpb_box=\box28
-\g_tmpa_box=\box29
-\g_tmpb_box=\box30
-\l__box_top_dim=\dimen108
-\l__box_bottom_dim=\dimen109
-\l__box_left_dim=\dimen110
-\l__box_right_dim=\dimen111
-\l__box_top_new_dim=\dimen112
-\l__box_bottom_new_dim=\dimen113
-\l__box_left_new_dim=\dimen114
-\l__box_right_new_dim=\dimen115
-\l__box_internal_box=\box31
-\l__coffin_internal_box=\box32
-\l__coffin_internal_dim=\dimen116
-\l__coffin_offset_x_dim=\dimen117
-\l__coffin_offset_y_dim=\dimen118
-\l__coffin_x_dim=\dimen119
-\l__coffin_y_dim=\dimen120
-\l__coffin_x_prime_dim=\dimen121
-\l__coffin_y_prime_dim=\dimen122
-\c_empty_coffin=\box33
-\l__coffin_aligned_coffin=\box34
-\l__coffin_aligned_internal_coffin=\box35
-\l_tmpa_coffin=\box36
-\l_tmpb_coffin=\box37
-\l__coffin_display_coffin=\box38
-\l__coffin_display_coord_coffin=\box39
-\l__coffin_display_pole_coffin=\box40
-\l__coffin_display_offset_dim=\dimen123
-\l__coffin_display_x_dim=\dimen124
-\l__coffin_display_y_dim=\dimen125
-\l__coffin_bounding_shift_dim=\dimen126
-\l__coffin_left_corner_dim=\dimen127
-\l__coffin_right_corner_dim=\dimen128
-\l__coffin_bottom_corner_dim=\dimen129
-\l__coffin_top_corner_dim=\dimen130
-\l__coffin_scaled_total_height_dim=\dimen131
-\l__coffin_scaled_width_dim=\dimen132
-) (e:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
-File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count158
-))
-Document Class: ctexbook 2018/01/28 v2.4.12 Chinese adapter for class book (CTEX)
-(e:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2018/02/21 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count159
-\g__xparse_grabber_int=\count160
-\l__xparse_m_args_int=\count161
-\l__xparse_mandatory_args_int=\count162
-\l__xparse_v_nesting_int=\count163
-) (e:/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
-)
+\l__intarray_loop_int=\count93
+\c__intarray_sp_dim=\dimen108
+\g__intarray_font_int=\count94
+\c__fp_leading_shift_int=\count95
+\c__fp_middle_shift_int=\count96
+\c__fp_trailing_shift_int=\count97
+\c__fp_big_leading_shift_int=\count98
+\c__fp_big_middle_shift_int=\count99
+\c__fp_big_trailing_shift_int=\count100
+\c__fp_Bigg_leading_shift_int=\count101
+\c__fp_Bigg_middle_shift_int=\count102
+\c__fp_Bigg_trailing_shift_int=\count103
+\g__fp_array_int=\count104
+\l__fp_array_loop_int=\count105
+\l__sort_length_int=\count106
+\l__sort_min_int=\count107
+\l__sort_top_int=\count108
+\l__sort_max_int=\count109
+\l__sort_true_max_int=\count110
+\l__sort_block_int=\count111
+\l__sort_begin_int=\count112
+\l__sort_end_int=\count113
+\l__sort_A_int=\count114
+\l__sort_B_int=\count115
+\l__sort_C_int=\count116
+\l__tl_analysis_normal_int=\count117
+\l__tl_analysis_index_int=\count118
+\l__tl_analysis_nesting_int=\count119
+\l__tl_analysis_type_int=\count120
+\l__regex_internal_a_int=\count121
+\l__regex_internal_b_int=\count122
+\l__regex_internal_c_int=\count123
+\l__regex_balance_int=\count124
+\l__regex_group_level_int=\count125
+\l__regex_mode_int=\count126
+\c__regex_cs_in_class_mode_int=\count127
+\c__regex_cs_mode_int=\count128
+\l__regex_catcodes_int=\count129
+\l__regex_default_catcodes_int=\count130
+\c__regex_catcode_L_int=\count131
+\c__regex_catcode_O_int=\count132
+\c__regex_catcode_A_int=\count133
+\c__regex_all_catcodes_int=\count134
+\l__regex_show_lines_int=\count135
+\l__regex_min_state_int=\count136
+\l__regex_max_state_int=\count137
+\l__regex_left_state_int=\count138
+\l__regex_right_state_int=\count139
+\l__regex_capturing_group_int=\count140
+\l__regex_min_pos_int=\count141
+\l__regex_max_pos_int=\count142
+\l__regex_curr_pos_int=\count143
+\l__regex_start_pos_int=\count144
+\l__regex_success_pos_int=\count145
+\l__regex_curr_char_int=\count146
+\l__regex_curr_catcode_int=\count147
+\l__regex_last_char_int=\count148
+\l__regex_case_changed_char_int=\count149
+\l__regex_curr_state_int=\count150
+\l__regex_step_int=\count151
+\l__regex_min_active_int=\count152
+\l__regex_max_active_int=\count153
+\l__regex_replacement_csnames_int=\count154
+\l__regex_match_count_int=\count155
+\l__regex_min_submatch_int=\count156
+\l__regex_submatch_int=\count157
+\l__regex_zeroth_submatch_int=\count158
+\g__regex_trace_regex_int=\count159
+\c_empty_box=\box27
+\l_tmpa_box=\box28
+\l_tmpb_box=\box29
+\g_tmpa_box=\box30
+\g_tmpb_box=\box31
+\l__box_top_dim=\dimen109
+\l__box_bottom_dim=\dimen110
+\l__box_left_dim=\dimen111
+\l__box_right_dim=\dimen112
+\l__box_top_new_dim=\dimen113
+\l__box_bottom_new_dim=\dimen114
+\l__box_left_new_dim=\dimen115
+\l__box_right_new_dim=\dimen116
+\l__box_internal_box=\box32
+\l__coffin_internal_box=\box33
+\l__coffin_internal_dim=\dimen117
+\l__coffin_offset_x_dim=\dimen118
+\l__coffin_offset_y_dim=\dimen119
+\l__coffin_x_dim=\dimen120
+\l__coffin_y_dim=\dimen121
+\l__coffin_x_prime_dim=\dimen122
+\l__coffin_y_prime_dim=\dimen123
+\c_empty_coffin=\box34
+\l__coffin_aligned_coffin=\box35
+\l__coffin_aligned_internal_coffin=\box36
+\l_tmpa_coffin=\box37
+\l_tmpb_coffin=\box38
+\g_tmpa_coffin=\box39
+\g_tmpb_coffin=\box40
+\l__coffin_bounding_shift_dim=\dimen124
+\l__coffin_left_corner_dim=\dimen125
+\l__coffin_right_corner_dim=\dimen126
+\l__coffin_bottom_corner_dim=\dimen127
+\l__coffin_top_corner_dim=\dimen128
+\l__coffin_scaled_total_height_dim=\dimen129
+\l__coffin_scaled_width_dim=\dimen130
+\c__coffin_empty_coffin=\box41
+\l__coffin_display_coffin=\box42
+\l__coffin_display_coord_coffin=\box43
+\l__coffin_display_pole_coffin=\box44
+\l__coffin_display_offset_dim=\dimen131
+\l__coffin_display_x_dim=\dimen132
+\l__coffin_display_y_dim=\dimen133
 \g__file_internal_ior=\read1
- (e:/texlive/2018/texmf-dist/tex/latex/ctex/ctexhook.sty
-Package: ctexhook 2018/01/28 v2.4.12 Document and package hooks (CTEX)
-) (e:/texlive/2018/texmf-dist/tex/latex/ctex/ctexpatch.sty
-Package: ctexpatch 2018/01/28 v2.4.12 Patching commands (CTEX)
-) (e:/texlive/2018/texmf-dist/tex/latex/base/fix-cm.sty
+\l__seq_internal_a_int=\count160
+\l__seq_internal_b_int=\count161
+\c__deprecation_minus_one=\count162
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvipdfmx.def 2019-04-06 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count163
+\l__driver_pdf_tmp_box=\box45
+\g__driver_pdf_object_int=\count164
+\g__driver_pdf_annotation_int=\count165
+))
+Document Class: ctexbook 2019/04/07 v2.4.15 Chinese adapter for class book (CTEX)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2019-05-03 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count166
+\g__xparse_grabber_int=\count167
+\l__xparse_m_args_int=\count168
+\l__xparse_v_nesting_int=\count169
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2019-05-03 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/04/07 v2.4.15 Document and package hooks (CTEX)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/04/07 v2.4.15 Patching commands (CTEX)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
- (e:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-)) (e:/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\l__ctex_tmp_int=\count164
-\l__ctex_tmp_box=\box41
-\l__ctex_tmp_dim=\dimen133
-\g__ctex_font_size_flag=\count165
- (e:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
-File: ctexopts.cfg 2018/01/28 v2.4.12 Option configuration file (CTEX)
-) (e:/texlive/2018/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(e:/texlive/2018/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+\l__ctex_tmp_int=\count170
+\l__ctex_tmp_box=\box46
+\l__ctex_tmp_dim=\dimen134
+\g__ctex_section_depth_int=\count171
+\g__ctex_font_size_int=\count172
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/04/07 v2.4.15 Option configuration file (CTEX)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-\c@part=\count166
-\c@chapter=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count173
+\c@chapter=\count174
+\c@section=\count175
+\c@subsection=\count176
+\c@subsubsection=\count177
+\c@paragraph=\count178
+\c@subparagraph=\count179
+\c@figure=\count180
+\c@table=\count181
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
-) (e:/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
-File: ctex-engine-xetex.def 2018/01/28 v2.4.12 XeLaTeX adapter (CTEX)
- (e:/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
-Package: xeCJK 2018/04/07 v3.7.0 Typesetting CJK scripts with XeLaTeX
- (e:/texlive/2018/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
-Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen135
-\l__xtemplate_tmp_int=\count175
+\bibindent=\dimen135
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2019/04/07 v2.4.15 XeLaTeX adapter (CTEX)
+ (/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2019/04/07 v3.7.2 Typesetting CJK scripts with XeLaTeX
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2019-05-03 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen136
+\l__xtemplate_tmp_int=\count182
 \l__xtemplate_tmp_muskip=\muskip16
 \l__xtemplate_tmp_skip=\skip49
 )
-\l__xeCJK_tmp_int=\count176
-\l__xeCJK_tmp_box=\box42
-\l__xeCJK_tmp_dim=\dimen136
+\l__xeCJK_tmp_int=\count183
+\l__xeCJK_tmp_box=\box47
+\l__xeCJK_tmp_dim=\dimen137
 \l__xeCJK_tmp_skip=\skip50
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKShipoutHook with sig. '' on line 150.
-.................................................
-\g__xeCJK_space_factor_int=\count177
-\l__xeCJK_begin_int=\count178
-\l__xeCJK_end_int=\count179
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \makexeCJKactive with sig. '' on line 396.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \makexeCJKinactive with sig. '' on line 398.
-.................................................
+\g__xeCJK_space_factor_int=\count184
+\l__xeCJK_begin_int=\count185
+\l__xeCJK_end_int=\count186
 \c__xeCJK_CJK_class_int=\XeTeXcharclass1
 \c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
 \c__xeCJK_FullRight_class_int=\XeTeXcharclass3
@@ -240,816 +235,178 @@ Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
 \c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKDeclareCharClass with sig. 's>{\TrimSpaces }mm' on
-. line 580.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \__xeCJK_set_char_class_aux:Nnw with sig.
-. 'm>{\SplitArgument {1}{->}}m' on line 601.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \normalspacedchars with sig. 'm' on line 647.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKResetPunctClass with sig. '' on line 658.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKResetCharClass with sig. '' on line 670.
-.................................................
 \l__xeCJK_last_skip=\skip51
-\g__xeCJK_node_int=\count180
-\c__xeCJK_CJK_node_dim=\dimen137
-\c__xeCJK_CJK-space_node_dim=\dimen138
-\c__xeCJK_default_node_dim=\dimen139
-\c__xeCJK_default-space_node_dim=\dimen140
-\c__xeCJK_CJK-widow_node_dim=\dimen141
-\c__xeCJK_normalspace_node_dim=\dimen142
+\g__xeCJK_node_int=\count187
+\c__xeCJK_CJK_node_dim=\dimen138
+\c__xeCJK_CJK-space_node_dim=\dimen139
+\c__xeCJK_default_node_dim=\dimen140
+\c__xeCJK_default-space_node_dim=\dimen141
+\c__xeCJK_CJK-widow_node_dim=\dimen142
+\c__xeCJK_normalspace_node_dim=\dimen143
 \l__xeCJK_ccglue_skip=\skip52
 \l__xeCJK_ecglue_skip=\skip53
 \l__xeCJK_punct_kern_skip=\skip54
-\l__xeCJK_last_penalty_int=\count181
-\l__xeCJK_last_bound_dim=\dimen143
-\l__xeCJK_last_kern_dim=\dimen144
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKnobreak with sig. '' on line 1889.
-.................................................
-\l__xeCJK_widow_penalty_int=\count182
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKDeclareSubCJKBlock with sig. 's>{\TrimSpaces }mm' on
-. line 2084.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKCancelSubCJKBlock with sig. 'sm' on line 2095.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKRestoreSubCJKBlock with sig. 'sm' on line 2104.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKsetwidth with sig. 'smm' on line 2202.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKsetkern with sig. 'mmm' on line 2206.
-.................................................
-.................................................
-. xtemplate info: "declare-object-type"
-. 
-. Declaring object type 'xeCJK/punctuation' taking 0 argument(s) on line 2362.
-.................................................
-\l__xeCJK_fixed_punct_width_dim=\dimen145
-\l__xeCJK_mixed_punct_width_dim=\dimen146
-\l__xeCJK_middle_punct_width_dim=\dimen147
-\l__xeCJK_fixed_margin_width_dim=\dimen148
-\l__xeCJK_mixed_margin_width_dim=\dimen149
-\l__xeCJK_middle_margin_width_dim=\dimen150
-\l__xeCJK_bound_punct_width_dim=\dimen151
-\l__xeCJK_bound_margin_width_dim=\dimen152
-\l__xeCJK_margin_minimum_dim=\dimen153
-\l__xeCJK_kerning_total_width_dim=\dimen154
-\l__xeCJK_same_align_margin_dim=\dimen155
-\l__xeCJK_different_align_margin_dim=\dimen156
-\l__xeCJK_kerning_margin_width_dim=\dimen157
-\l__xeCJK_kerning_margin_minimum_dim=\dimen158
-\l__xeCJK_bound_dim=\dimen159
-\l__xeCJK_reverse_bound_dim=\dimen160
-\l__xeCJK_minimum_bound_dim=\dimen161
-\l__xeCJK_kerning_margin_dim=\dimen162
-\l__xeCJK_original_margin_dim=\dimen163
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKDeclarePunctStyle with sig. '>{\TrimSpaces }mm' on
-. line 2942.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKEditPunctStyle with sig. '>{\TrimSpaces }mm' on line
-. 2955.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setCJKfallbackfamilyfont with sig. 'mom' on line 3059.
-.................................................
-\g__xeCJK_family_int=\count183
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CJKfamily with sig. 't+t-m' on line 3493.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \__xeCJK_gobble_CJKfamily:wn with sig. 't+t-m' on line
-. 3558.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \__xeCJK_post_arg:w with sig. 'mmmO{}' on line 3618.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setCJKmainfont with sig. 'om' on line 3624.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setCJKsansfont with sig. 'om' on line 3631.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setCJKmonofont with sig. 'om' on line 3637.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setCJKfamilyfont with sig. 'mom' on line 3648.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newCJKfontfamily with sig. 'omom' on line 3658.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CJKfontspec with sig. 'om' on line 3664.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \defaultCJKfontfeatures with sig. 'm' on line 3687.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addCJKfontfeatures with sig. 'sO{}m' on line 3693.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setCJKmathfont with sig. 'om' on line 3870.
-.................................................
-\l__xeCJK_fam_int=\count184
-\g__xeCJK_fam_allocation_int=\count185
-\l__xeCJK_verb_case_int=\count186
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKVerbAddon with sig. '' on line 4117.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKOffVerbAddon with sig. '' on line 4121.
-.................................................
+\l__xeCJK_last_penalty_int=\count188
+\l__xeCJK_last_bound_dim=\dimen144
+\l__xeCJK_last_kern_dim=\dimen145
+\l__xeCJK_widow_penalty_int=\count189
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2352.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen146
+\l__xeCJK_mixed_punct_width_dim=\dimen147
+\l__xeCJK_middle_punct_width_dim=\dimen148
+\l__xeCJK_fixed_margin_width_dim=\dimen149
+\l__xeCJK_mixed_margin_width_dim=\dimen150
+\l__xeCJK_middle_margin_width_dim=\dimen151
+\l__xeCJK_bound_punct_width_dim=\dimen152
+\l__xeCJK_bound_margin_width_dim=\dimen153
+\l__xeCJK_margin_minimum_dim=\dimen154
+\l__xeCJK_kerning_total_width_dim=\dimen155
+\l__xeCJK_same_align_margin_dim=\dimen156
+\l__xeCJK_different_align_margin_dim=\dimen157
+\l__xeCJK_kerning_margin_width_dim=\dimen158
+\l__xeCJK_kerning_margin_minimum_dim=\dimen159
+\l__xeCJK_bound_dim=\dimen160
+\l__xeCJK_reverse_bound_dim=\dimen161
+\l__xeCJK_minimum_bound_dim=\dimen162
+\l__xeCJK_kerning_margin_dim=\dimen163
+\l__xeCJK_original_margin_dim=\dimen164
+\g__xeCJK_family_int=\count190
+\l__xeCJK_fam_int=\count191
+\g__xeCJK_fam_allocation_int=\count192
+\l__xeCJK_verb_case_int=\count193
 \l__xeCJK_verb_exspace_skip=\skip55
- (e:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
- (e:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count187
-\l__fontspec_language_int=\count188
-\l__fontspec_strnum_int=\count189
-\l__fontspec_tmp_int=\count190
-\l__fontspec_em_int=\count191
-\l__fontspec_emdef_int=\count192
-\l__fontspec_strong_int=\count193
-\l__fontspec_strongdef_int=\count194
-\l__fontspec_tmpa_dim=\dimen164
-\l__fontspec_tmpb_dim=\dimen165
-\l__fontspec_tmpc_dim=\dimen166
- (e:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
- (e:/texlive/2018/texmf-dist/tex/latex/base/tuenc.def
-File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count194
+\l__fontspec_language_int=\count195
+\l__fontspec_strnum_int=\count196
+\l__fontspec_tmp_int=\count197
+\l__fontspec_tmpa_int=\count198
+\l__fontspec_tmpb_int=\count199
+\l__fontspec_tmpc_int=\count266
+\l__fontspec_em_int=\count267
+\l__fontspec_emdef_int=\count268
+\l__fontspec_strong_int=\count269
+\l__fontspec_strongdef_int=\count270
+\l__fontspec_tmpa_dim=\dimen165
+\l__fontspec_tmpb_dim=\dimen166
+\l__fontspec_tmpc_dim=\dimen167
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
-))
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 542.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 546.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 550.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 554.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 558.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 562.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 570.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 574.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 578.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 582.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 586.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addfontfeatures with sig. 'm' on line 590.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addfontfeature with sig. 'm' on line 594.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfeature with sig. 'mm' on line 598.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newAATfeature with sig. 'mmmm' on line 602.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newopentypefeature with sig. 'mmm' on line 606.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newICUfeature with sig. 'mmm' on line 610.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeature with sig. 'mm' on line 614.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 618.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontscript with sig. 'mm' on line 622.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontlanguage with sig. 'mm' on line 626.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 630.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 634.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3632.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingAccent with sig. 'mm' on line 3638.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3644.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3650.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3656.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3681.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3687.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareAccent with sig. 'm' on line 3693.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareCommand with sig. 'm' on line 3699.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3706.
-.................................................
- (e:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3891.
-LaTeX Info: Redefining \slshape on input line 3896.
-LaTeX Info: Redefining \scshape on input line 3901.
-LaTeX Info: Redefining \upshape on input line 3906.
-LaTeX Info: Redefining \em on input line 3936.
-LaTeX Info: Redefining \emph on input line 3961.
-LaTeX Info: Redefining \- on input line 4015.
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \oldstylenums with sig. 'm' on line 4110.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \liningnums with sig. 'm' on line 4114.
-.................................................
-))
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKsetup with sig. '+m' on line 4422.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKsetemboldenfactor with sig. 'm' on line 4424.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKsetslantfactor with sig. 'm' on line 4426.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \punctstyle with sig. 'm' on line 4427.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKplainchr with sig. '' on line 4428.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CJKsetecglue with sig. 'm' on line 4429.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CJKspace with sig. '' on line 4431.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CJKnospace with sig. '' on line 4432.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKallowbreakbetweenpuncts with sig. '' on line 4434.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKnobreakbetweenpuncts with sig. '' on line 4436.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKenablefallback with sig. '' on line 4438.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKdisablefallback with sig. '' on line 4440.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKsetcharclass with sig. 'mmm' on line 4445.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \fontfamily with sig. 'm' on line 4628.
-.................................................
- (e:/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
-File: xeCJK.cfg 2018/04/07 v3.7.0 Configuration file for xeCJK package
-)) (e:/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
-Package: xeCJKfntef 2018/04/07 v3.7.0 xeCJK font effect
- (e:/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box43
-\UL@hyphenbox=\box44
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 4051.
+LaTeX Info: Redefining \slshape on input line 4056.
+LaTeX Info: Redefining \scshape on input line 4061.
+LaTeX Info: Redefining \upshape on input line 4066.
+LaTeX Info: Redefining \em on input line 4096.
+LaTeX Info: Redefining \emph on input line 4121.
+)) (/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2019/04/07 v3.7.2 Configuration file for xeCJK package
+)) (/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2019/04/07 v3.7.2 xeCJK font effect
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box48
+\UL@hyphenbox=\box49
 \UL@skip=\skip56
 \UL@hook=\toks14
-\UL@height=\dimen167
-\UL@pe=\count195
-\UL@pixel=\dimen168
-\ULC@box=\box45
+\UL@height=\dimen168
+\UL@pe=\count271
+\UL@pixel=\dimen169
+\ULC@box=\box50
 Package: ulem 2012/05/18
-\ULdepth=\dimen169
-) (e:/texlive/2018/texmf-dist/tex/latex/environ/environ.sty
-Package: environ 2014/05/04 v0.3 A new way to define environments
- (e:/texlive/2018/texmf-dist/tex/latex/trimspaces/trimspaces.sty
-Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)
-\@envbody=\toks15
-) (e:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+\ULdepth=\dimen170
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
 Package: CJKfntef 2015/04/18 4.8.4
 \CJK@fntefSkip=\skip57
-\CJK@nest=\count196
-\CJK@fntefDimen=\dimen170
-\CJK@underdotBox=\box46
-\CJK@ULbox=\box47
-\CJK@underanyskip=\dimen171
+\CJK@nest=\count272
+\CJK@fntefDimen=\dimen171
+\CJK@underdotBox=\box51
+\CJK@ULbox=\box52
+\CJK@underanyskip=\dimen172
 )
 \l__xeCJK_space_skip=\skip58
-\c__xeCJK_ulem-begin_node_dim=\dimen172
-\c__xeCJK_null_box=\box48
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xeCJKfntefon with sig. 'st-so' on line 657.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \CJKunderline with sig. 'st-so' on line 673.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \varCJKunderline with sig. '' on line 675.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \CJKunderwave with sig. 'st-so' on line 685.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \CJKunderdblline with sig. 'st-so' on line 709.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \CJKsout with sig. 'st-so' on line 728.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \CJKxout with sig. 'st-so' on line 745.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \CJKunderanyline with sig. 'st-somm' on line 766.
-.................................................
-\l__xeCJK_fntef_box=\box49
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \CJKunderanysymbol with sig. 'ommm' on line 940.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \CJKunderdot with sig. 'om' on line 949.
-.................................................
-\l__xeCJK_under_symbol_box=\box50
-.................................................
-. LaTeX info: "xparse/redefine-environment"
-. 
-. Redefining environment 'CJKfilltwosides' with sig. 'O{c}m' on line 1053.
-.................................................
+\c__xeCJK_ulem-begin_node_dim=\dimen173
+\c__xeCJK_null_box=\box53
+\l__xeCJK_fntef_box=\box54
+\l__xeCJK_under_symbol_box=\box55
 \c__xeCJK_filll_skip=\skip59
 )
-\ccwd=\dimen173
+\ccwd=\dimen174
 \l__ctex_ccglue_skip=\skip60
 )
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \ctexset with sig. '' on line 388.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CTEXsetup with sig. '+o>{\TrimSpaces }m' on line 394.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CTEXoptions with sig. '+o' on line 400.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CTEXsetfont with sig. '' on line 418.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \ziju with sig. 'm' on line 490.
-.................................................
-\l__ctex_ziju_dim=\dimen174
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CTEXindent with sig. '' on line 531.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CTEXnoindent with sig. '' on line 537.
-.................................................
- (e:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber.sty
-Package: zhnumber 2018/01/28 v2.6 Typesetting numbers with Chinese glyphs
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhnumber with sig. '+o+m' on line 50.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhnumberwithoptions with sig. '+m+m' on line 57.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhnum with sig. '+o+m' on line 111.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhnumwithoptions with sig. '+m+m' on line 118.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhdig with sig. '+o+m' on line 295.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhdigwithoptions with sig. '+m+m' on line 302.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhdigits with sig. '+s+o+m' on line 316.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhdigitswithoptions with sig. '+m+m+m' on line 323.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhdate with sig. '+s+m' on line 382.
-.................................................
-\l__zhnum_scale_int=\count197
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhnumExtendScaleMap with sig. '>{\TrimSpaces }+o+m' on
-. line 504.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zhnumsetup with sig. '+m' on line 934.
-.................................................
- (e:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
-File: zhnumber-utf8.cfg 2018/01/28 v2.6 Chinese numerals with UTF8 encoding
+\l__ctex_ziju_dim=\dimen175
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count273
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
 ))
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CTEXnumber with sig. 'mm' on line 554.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CTEXdigits with sig. 'mm' on line 556.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \ctex_assign_heading_name:nn with sig. 'm>{\SplitArgument
-. {\c_one }{,}}+m' on line 681.
-.................................................
 \l__ctex_heading_skip=\skip61
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \partmark with sig. 'm' on line 728.
-.................................................
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \refstepcounter with sig. 'm' on line 1323.
-.................................................
- (e:/texlive/2018/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def
-File: ctex-scheme-chinese-book.def 2018/01/28 v2.4.12 Chinese scheme for book (CTEX)
- (e:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
-File: ctex-name-utf8.cfg 2018/01/28 v2.4.12 Caption with encoding UTF8 (CTEX)
-))
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \zihao with sig. 'm' on line 1326.
-.................................................
- (e:/texlive/2018/texmf-dist/tex/latex/ctex/ctex-cs4size.clo
-File: ctex-cs4size.clo 2018/01/28 v2.4.12 cs4size option (CTEX)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def
+File: ctex-scheme-chinese-book.def 2019/04/07 v2.4.15 Chinese scheme for book (CTEX)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/04/07 v2.4.15 Caption with encoding UTF8 (CTEX)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctex-cs4size.clo
+File: ctex-cs4size.clo 2019/04/07 v2.4.15 cs4size option (CTEX)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2019/04/07 v2.4.15 Fandol fonts definition (CTEX)
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold},ItalicFont={FandolKai-Regular}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/04/07 v2.4.15 Configuration file (CTEX)
 )
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \CTeX with sig. '' on line 1430.
-.................................................
- (e:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
-File: ctex-fontset-windows.def 2018/01/28 v2.4.12 Windows fonts definition (CTEX)
- (e:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
-File: ctex-fontset-windowsnew.def 2018/01/28 v2.4.12 Windows fonts definition for Vista or later version (CTEX)
-\g__fontspec_family_SimSun_int=\count198
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "KaiTi/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimHei/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimSun/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
-. [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.: <->"SimSun/OT:script=hani;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.: <->"SimHei/OT:script=hani;language=DFLT;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. - 'italic' (m/it) with NFSS spec.: <->"KaiTi/OT:script=hani;language=DFLT;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: 
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \songti with sig. '' on line 111.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \heiti with sig. '' on line 112.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \fangsong with sig. '' on line 113.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \kaishu with sig. '' on line 114.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \lishu with sig. '' on line 115.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \youyuan with sig. '' on line 116.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \yahei with sig. '' on line 117.
-.................................................
-))) (e:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex.cfg
-File: ctex.cfg 2018/01/28 v2.4.12 Configuration file (CTEX)
-)
-\g__fontspec_family_TimesNewRoman_int=\count199
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'TimesNewRoman(0)' created for font 'Times New Roman' with
-. options [Ligatures=TeX].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.: <->"Times New
-. Roman/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
-. Roman/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
-. - 'bold' (bx/n) with NFSS spec.: <->"Times New
-. Roman/B/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Times New
-. Roman/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
-. - 'italic' (m/it) with NFSS spec.: <->"Times New
-. Roman/I/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Times New
-. Roman/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
-. - 'bold italic' (bx/it) with NFSS spec.: <->"Times New
-. Roman/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Times New
-. Roman/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
-.................................................
-LaTeX Info: Redefining \rmfamily on input line 5.
- (e:/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+
+LaTeX Info: Redefining \rmfamily on input line 6.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip62
 \f@nch@O@elh=\skip63
 \f@nch@O@erh=\skip64
@@ -1059,11 +416,11 @@ Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
 \f@nch@O@erf=\skip68
 \f@nch@O@olf=\skip69
 \f@nch@O@orf=\skip70
-) (e:/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
- (e:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
- (e:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -1073,15 +430,11 @@ Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -1101,239 +454,239 @@ Package atveryend Info: \enddocument detected (standard20110627).
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-) (e:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-) (e:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+\KV@toks@=\toks15
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) (e:/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-) (e:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen175
-\Hy@linkcounter=\count266
-\Hy@pagecounter=\count267
- (e:/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+\@linkdim=\dimen176
+\Hy@linkcounter=\count274
+\Hy@pagecounter=\count275
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count268
- (e:/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+\Hy@SavedSpaceFactor=\count276
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4383.
- (e:/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
+Package hyperref Info: Option `unicode' set `true' on input line 4393.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4509.
-Package hyperref Info: Link nesting OFF on input line 4514.
-Package hyperref Info: Hyper index ON on input line 4517.
-Package hyperref Info: Plain pages OFF on input line 4524.
-Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count269
- (e:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count277
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5115.
-\XeTeXLinkMargin=\dimen176
-\Fld@menulength=\count270
-\Field@Width=\dimen177
-\Fld@charsize=\dimen178
-Package hyperref Info: Hyper figures OFF on input line 6369.
-Package hyperref Info: Link nesting OFF on input line 6374.
-Package hyperref Info: Hyper index ON on input line 6377.
-Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring OFF on input line 6389.
-Package hyperref Info: Link coloring with OCG OFF on input line 6394.
-Package hyperref Info: PDF/A mode OFF on input line 6399.
-LaTeX Info: Redefining \ref on input line 6439.
-LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count271
-\c@Item=\count272
-\c@Hfootnote=\count273
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen177
+\Fld@menulength=\count278
+\Field@Width=\dimen178
+\Fld@charsize=\dimen179
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count279
+\c@Item=\count280
+\c@Hfootnote=\count281
 )
 Package hyperref Info: Driver (autodetected): hxetex.
- (e:/texlive/2018/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2018/02/06 v6.86b Hyperref driver for XeTeX
- (e:/texlive/2018/texmf-dist/tex/generic/oberdiek/stringenc.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2018/11/30 v6.88e Hyperref driver for XeTeX
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO)
 )
-\pdfm@box=\box51
-\c@Hy@AnnotLevel=\count274
-\HyField@AnnotCount=\count275
-\Fld@listcount=\count276
-\c@bookmark@seq@number=\count277
- (e:/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+\pdfm@box=\box56
+\c@Hy@AnnotLevel=\count282
+\HyField@AnnotCount=\count283
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
 \Hy@SectionHShift=\skip71
-) (e:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/03/24 v5.7 Page Geometry
-\Gm@cnth=\count278
-\Gm@cntv=\count279
-\c@Gm@tempcnt=\count280
-\Gm@bindingoffset=\dimen179
-\Gm@wd@mp=\dimen180
-\Gm@odd@mp=\dimen181
-\Gm@even@mp=\dimen182
-\Gm@layoutwidth=\dimen183
-\Gm@layoutheight=\dimen184
-\Gm@layouthoffset=\dimen185
-\Gm@layoutvoffset=\dimen186
-\Gm@dimlist=\toks17
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count286
+\Gm@cntv=\count287
+\c@Gm@tempcnt=\count288
+\Gm@bindingoffset=\dimen180
+\Gm@wd@mp=\dimen181
+\Gm@odd@mp=\dimen182
+\Gm@even@mp=\dimen183
+\Gm@layoutwidth=\dimen184
+\Gm@layoutheight=\dimen185
+\Gm@layouthoffset=\dimen186
+\Gm@layoutvoffset=\dimen187
+\Gm@dimlist=\toks16
 )
-\StudentNumber=\toks18
-\miji=\toks19
-\DepartNumber=\toks20
-\ClassNumber=\toks21
-\Titleo=\toks22
-\Titlet=\toks23
-\Cmajor=\toks24
-\Cschoolname=\toks25
-\Csupervisor=\toks26
-\PRAT=\toks27
-\abstractCn=\toks28
-\abstractEn=\toks29
- (e:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2017/09/02 v2.17a AMS math features
+\StudentNumber=\toks17
+\miji=\toks18
+\DepartNumber=\toks19
+\ClassNumber=\toks20
+\Titleo=\toks21
+\Titlet=\toks22
+\Cmajor=\toks23
+\Cschoolname=\toks24
+\Csupervisor=\toks25
+\PRAT=\toks26
+\abstractCn=\toks27
+\abstractEn=\toks28
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip72
 
 For additional information on amsmath, use the `?' option.
-(e:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- (e:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks30
-\ex@=\dimen187
-)) (e:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\@emptytoks=\toks29
+\ex@=\dimen188
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen188
-) (e:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+\pmbraise@=\dimen189
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count281
-LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count282
-\leftroot@=\count283
-LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count284
-\DOTSCASE@=\count285
-LaTeX Info: Redefining \ldots on input line 472.
-LaTeX Info: Redefining \dots on input line 475.
-LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
-\big@size=\dimen189
-LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count286
-\c@MaxMatrixCols=\count287
+\inf@bad=\count289
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count290
+\leftroot@=\count291
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count292
+\DOTSCASE@=\count293
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+\big@size=\dimen190
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count294
+\c@MaxMatrixCols=\count295
 \dotsspace@=\muskip18
-\c@parentequation=\count288
-\dspbrk@lvl=\count289
-\tag@help=\toks31
-\row@=\count290
-\column@=\count291
-\maxfields@=\count292
-\andhelp@=\toks32
-\eqnshift@=\dimen190
-\alignsep@=\dimen191
-\tagshift@=\dimen192
-\tagwidth@=\dimen193
-\totwidth@=\dimen194
-\lineht@=\dimen195
-\@envbody=\toks33
+\c@parentequation=\count296
+\dspbrk@lvl=\count297
+\tag@help=\toks30
+\row@=\count298
+\column@=\count299
+\maxfields@=\count300
+\andhelp@=\toks31
+\eqnshift@=\dimen191
+\alignsep@=\dimen192
+\tagshift@=\dimen193
+\tagwidth@=\dimen194
+\totwidth@=\dimen195
+\lineht@=\dimen196
+\@envbody=\toks32
 \multlinegap=\skip73
 \multlinetaggap=\skip74
-\mathdisplay@stack=\toks34
-LaTeX Info: Redefining \[ on input line 2817.
-LaTeX Info: Redefining \] on input line 2818.
-) (e:/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (e:/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (e:/texlive/2018/texmf-dist/tex/latex/ntheorem/ntheorem.sty
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/ntheorem/ntheorem.sty
 Style `ntheorem', Version 1.33 <2011/08/15>
 Package: ntheorem 2011/08/15 1.33
-(e:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\theorem@style=\toks35
-\theorem@@style=\toks36
-\theorembodyfont=\toks37
-\theoremnumbering=\toks38
+\theorem@style=\toks34
+\theorem@@style=\toks35
+\theorembodyfont=\toks36
+\theoremnumbering=\toks37
 \theorempreskipamount=\skip75
 \theorempostskipamount=\skip76
 \theoremframepreskipamount=\skip77
 \theoremframepostskipamount=\skip78
 \theoreminframepreskipamount=\skip79
 \theoreminframepostskipamount=\skip80
-\theorem@preskip=\toks39
-\theorem@postskip=\toks40
-\theorem@framepreskip=\toks41
-\theorem@framepostskip=\toks42
-\theorem@inframepreskip=\toks43
-\theorem@inframepostskip=\toks44
-\theoremindent=\dimen196
-\theorem@indent=\dimen197
-\theoremrightindent=\dimen198
-\theorem@rightindent=\dimen199
-\theoremheaderfont=\toks45
-\theoremseparator=\toks46
-\theoremprework=\toks47
-\theorempostwork=\toks48
-\theoremsymbol=\toks49
-\qedsymbol=\toks50
-\theoremkeyword=\toks51
-\qedsymbol=\toks52
+\theorem@preskip=\toks38
+\theorem@postskip=\toks39
+\theorem@framepreskip=\toks40
+\theorem@framepostskip=\toks41
+\theorem@inframepreskip=\toks42
+\theorem@inframepostskip=\toks43
+\theoremindent=\dimen197
+\theorem@indent=\dimen198
+\theoremrightindent=\dimen199
+\theorem@rightindent=\dimen256
+\theoremheaderfont=\toks44
+\theoremseparator=\toks45
+\theoremprework=\toks46
+\theorempostwork=\toks47
+\theoremsymbol=\toks48
+\qedsymbol=\toks49
+\theoremkeyword=\toks50
+\qedsymbol=\toks51
 \thm@topsep=\skip81
 \thm@topsepadd=\skip82
 Package ntheorem Info: Option `thmmarks' loaded on input line 1175.
-\c@endNonectr=\count293
-\c@currNonectr=\count294
+\c@endNonectr=\count301
+\c@currNonectr=\count302
 \mysavskip=\skip83
 Package ntheorem Info: option `amsmath' handling for `thmmarks' loaded on input line 1175.
-\thm@amstmpdepth=\dimen256
-\tagwidth=\dimen257
-) (e:/texlive/2018/texmf-dist/tex/latex/tools/bm.sty
+\thm@amstmpdepth=\dimen257
+\tagwidth=\dimen258
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
 \symboldsymbols=\mathgroup8
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
-) (e:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- (e:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- (e:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (e:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 99.
- (e:/texlive/2018/texmf-dist/tex/latex/graphics-def/xetex.def
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen258
-\Gin@req@width=\dimen259
-) (e:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+\Gin@req@height=\dimen259
+\Gin@req@width=\dimen260
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
- (e:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 147.
-) (e:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (e:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -1346,98 +699,48 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (e:/texlive/2018/texmf-dist/tex/latex/tools/enumerate.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks53
-) (e:/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+\@enLab=\toks52
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen260
-\lightrulewidth=\dimen261
-\cmidrulewidth=\dimen262
-\belowrulesep=\dimen263
-\belowbottomsep=\dimen264
-\aboverulesep=\dimen265
-\abovetopsep=\dimen266
-\cmidrulesep=\dimen267
-\cmidrulekern=\dimen268
-\defaultaddspace=\dimen269
-\@cmidla=\count295
-\@cmidlb=\count296
-\@aboverulesep=\dimen270
-\@belowrulesep=\dimen271
-\@thisruleclass=\count297
-\@lastruleclass=\count298
-\@thisrulewidth=\dimen272
-) (e:/texlive/2018/texmf-dist/tex/latex/mhchem/mhchem.sty
-Package: mhchem 2017/07/24 v4.07 for typesetting chemical formulae
- (e:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+\heavyrulewidth=\dimen261
+\lightrulewidth=\dimen262
+\cmidrulewidth=\dimen263
+\belowrulesep=\dimen264
+\belowbottomsep=\dimen265
+\aboverulesep=\dimen266
+\abovetopsep=\dimen267
+\cmidrulesep=\dimen268
+\cmidrulekern=\dimen269
+\defaultaddspace=\dimen270
+\@cmidla=\count303
+\@cmidlb=\count304
+\@aboverulesep=\dimen271
+\@belowrulesep=\dimen272
+\@thisruleclass=\count305
+\@lastruleclass=\count306
+\@thisrulewidth=\dimen273
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count299
-\calc@Bcount=\count300
-\calc@Adimen=\dimen273
-\calc@Bdimen=\dimen274
+\calc@Acount=\count307
+\calc@Bcount=\count308
+\calc@Adimen=\dimen274
+\calc@Bdimen=\dimen275
 \calc@Askip=\skip84
 \calc@Bskip=\skip85
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count301
+\calc@Ccount=\count309
 \calc@Cskip=\skip86
-) (e:/texlive/2018/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/chemgreek/chemgreek.sty
 Package: chemgreek 2016/12/20 v1.1 interfaceforuprightgreeklettersforuseinchemistry (CN)
-\l__chemgreek_tmpa_int=\count302
-\g__chemgreek_tmpa_int=\count303
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newchemgreekmapping with sig. 'O{}mm' on line 336.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \renewchemgreekmapping with sig. 'O{}mm' on line 339.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \declarechemgreekmapping with sig. 'O{}mm' on line 342.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newchemgreekmappingalias with sig. 'mm' on line 347.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \renewchemgreekmappingalias with sig. 'mm' on line 350.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \declarechemgreekmappingalias with sig. 'mm' on line 353.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \changechemgreeksymbol with sig. 'mmmm' on line 383.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \chemgreekmappingsymbol with sig. 'mm' on line 477.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \activatechemgreekmapping with sig. 'sm' on line 486.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \selectchemgreekmapping with sig. 'm' on line 491.
-.................................................
+\l__chemgreek_tmpa_int=\count310
+\g__chemgreek_tmpa_int=\count311
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count304
+\l__mhchem_ce_distanceFromLastComma_int=\count312
 \__mhchem_arrow_extPgfLength_skip=\skip87
 \mhchem@minispace@tmp=\skip88
 \mhchem@minibackspace@tmp=\skip89
@@ -1448,191 +751,195 @@ Package: chemgreek 2016/12/20 v1.1 interfaceforuprightgreeklettersforuseinchemis
 \mhchem@smallbondwidth=\skip94
 \mhchem@bondtmp@minussidebearingleft=\skip95
 \mhchem@bondtmp@minussidebearingright=\skip96
-\l__mhchem_option_version_int=\count305
-\mhchem@option@minusmathsidebearingleft=\dimen275
-\mhchem@option@minusmathsidebearingright=\dimen276
-\mhchem@option@minustextsidebearingleft=\dimen277
-\mhchem@option@minustextsidebearingright=\dimen278
-) (e:/texlive/2018/texmf-dist/tex/generic/chemfig/chemfig.sty (e:/texlive/2018/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (e:/texlive/2018/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (e:/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (e:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks54
-\pgfutil@tempdima=\dimen279
-\pgfutil@tempdimb=\dimen280
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (e:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box54
- (e:/texlive/2018/texmf-dist/tex/latex/ms/everyshi.sty
+\l__mhchem_option_version_int=\count313
+\mhchem@option@minusmathsidebearingleft=\dimen276
+\mhchem@option@minusmathsidebearingright=\dimen277
+\mhchem@option@minustextsidebearingleft=\dimen278
+\mhchem@option@minustextsidebearingright=\dimen279
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/chemfig/chemfig.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks53
+\pgfutil@tempdima=\dimen280
+\pgfutil@tempdimb=\dimen281
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box59
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-)) (e:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/04/04 v3.1.2 (3.1.2)
 ))
-Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
- (e:/texlive/2018/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (e:/texlive/2018/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (e:/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks55
-\pgfkeys@temptoks=\toks56
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks57
+Package: pgf 2019/04/04 v3.1.2 (3.1.2)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks54
+\pgfkeys@temptoks=\toks55
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks56
 ))
-\pgf@x=\dimen281
-\pgf@y=\dimen282
-\pgf@xa=\dimen283
-\pgf@ya=\dimen284
-\pgf@xb=\dimen285
-\pgf@yb=\dimen286
-\pgf@xc=\dimen287
-\pgf@yc=\dimen288
+\pgf@x=\dimen282
+\pgf@y=\dimen283
+\pgf@xa=\dimen284
+\pgf@ya=\dimen285
+\pgf@xb=\dimen286
+\pgf@yb=\dimen287
+\pgf@xc=\dimen288
+\pgf@yc=\dimen289
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count306
-\c@pgf@countb=\count307
-\c@pgf@countc=\count308
-\c@pgf@countd=\count309
-\t@pgf@toka=\toks58
-\t@pgf@tokb=\toks59
-\t@pgf@tokc=\toks60
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+\c@pgf@counta=\count314
+\c@pgf@countb=\count315
+\c@pgf@countc=\count316
+\c@pgf@countd=\count317
+\t@pgf@toka=\toks57
+\t@pgf@tokb=\toks58
+\t@pgf@tokc=\toks59
+\pgf@sys@id@count=\count318
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
 )
 Driver file for pgf: pgfsys-xetex.def
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
-File: pgfsys-xetex.def 2014/07/09  (rcs-revision 1.11)
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
-File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2019/04/04 v3.1.2 (3.1.2)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2019/04/04 v3.1.2 (3.1.2)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
 )
-\pgfsys@objnum=\count310
-))) (e:/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count311
-\pgfsyssoftpath@bigbuffer@items=\count312
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen289
-\pgfmath@count=\count313
-\pgfmath@box=\box55
-\pgfmath@toks=\toks61
-\pgfmath@stack@operand=\toks62
-\pgfmath@stack@operation=\toks63
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count314
-)) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen290
-\pgf@picmaxx=\dimen291
-\pgf@picminy=\dimen292
-\pgf@picmaxy=\dimen293
-\pgf@pathminx=\dimen294
-\pgf@pathmaxx=\dimen295
-\pgf@pathminy=\dimen296
-\pgf@pathmaxy=\dimen297
-\pgf@xx=\dimen298
-\pgf@xy=\dimen299
-\pgf@yx=\dimen300
-\pgf@yy=\dimen301
-\pgf@zx=\dimen302
-\pgf@zy=\dimen303
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen304
-\pgf@path@lasty=\dimen305
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen306
-\pgf@shorten@start@additional=\dimen307
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box56
-\pgf@hbox=\box57
-\pgf@layerbox@main=\box58
-\pgf@picture@serial@count=\count315
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen308
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen309
-\pgf@pt@y=\dimen310
-\pgf@pt@temp=\dimen311
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen312
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen313
-\pgf@sys@shading@range@num=\count316
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box59
-)) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-))) (e:/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box60
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-) (e:/texlive/2018/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen314
-\pgf@nodesepend=\dimen315
-) (e:/texlive/2018/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) (e:/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (e:/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (e:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (e:/texlive/2018/texmf-dist/tex/latex/pgf/math/pgfmath.sty (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (e:/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen316
-\pgffor@skip=\dimen317
-\pgffor@stack=\toks64
-\pgffor@toks=\toks65
-)) (e:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count317
-\pgfplotmarksize=\dimen318
+\pgfsys@objnum=\count319
+))) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfsyssoftpath@smallbuffer@items=\count320
+\pgfsyssoftpath@bigbuffer@items=\count321
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen290
+\pgfmath@count=\count322
+\pgfmath@box=\box60
+\pgfmath@toks=\toks60
+\pgfmath@stack@operand=\toks61
+\pgfmath@stack@operation=\toks62
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count323
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@picminx=\dimen291
+\pgf@picmaxx=\dimen292
+\pgf@picminy=\dimen293
+\pgf@picmaxy=\dimen294
+\pgf@pathminx=\dimen295
+\pgf@pathmaxx=\dimen296
+\pgf@pathminy=\dimen297
+\pgf@pathmaxy=\dimen298
+\pgf@xx=\dimen299
+\pgf@xy=\dimen300
+\pgf@yx=\dimen301
+\pgf@yy=\dimen302
+\pgf@zx=\dimen303
+\pgf@zy=\dimen304
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@path@lastx=\dimen305
+\pgf@path@lasty=\dimen306
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@shorten@end@additional=\dimen307
+\pgf@shorten@start@additional=\dimen308
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count324
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgflinewidth=\dimen309
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@pt@x=\dimen310
+\pgf@pt@y=\dimen311
+\pgf@pt@temp=\dimen312
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2019/04/04 v3.1.2 (3.1.2)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2019/04/04 v3.1.2 (3.1.2)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfarrowsep=\dimen313
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@max=\dimen314
+\pgf@sys@shading@range@num=\count325
+\pgf@shadingcount=\count326
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfexternal@startupbox=\box64
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2019/04/04 v3.1.2 (3.1.2)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfnodeparttextbox=\box65
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
+\pgf@nodesepstart=\dimen315
+\pgf@nodesepend=\dimen316
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen317
+\pgffor@skip=\dimen318
+\pgffor@stack=\toks63
+\pgffor@toks=\toks64
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2019/04/04 v3.1.2 (3.1.2)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@plot@mark@count=\count327
+\pgfplotmarksize=\dimen319
 )
-\tikz@lastx=\dimen319
-\tikz@lasty=\dimen320
-\tikz@lastxsaved=\dimen321
-\tikz@lastysaved=\dimen322
-\tikzleveldistance=\dimen323
-\tikzsiblingdistance=\dimen324
-\tikz@figbox=\box61
-\tikz@figbox@bg=\box62
-\tikz@tempbox=\box63
-\tikz@tempbox@bg=\box64
-\tikztreelevel=\count318
-\tikznumberofchildren=\count319
-\tikznumberofcurrentchild=\count320
-\tikz@fig@count=\count321
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count322
-\pgfmatrixcurrentcolumn=\count323
-\pgf@matrix@numberofcolumns=\count324
+\tikz@lastx=\dimen320
+\tikz@lasty=\dimen321
+\tikz@lastxsaved=\dimen322
+\tikz@lastysaved=\dimen323
+\tikzleveldistance=\dimen324
+\tikzsiblingdistance=\dimen325
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count328
+\tikznumberofchildren=\count329
+\tikznumberofcurrentchild=\count330
+\tikz@fig@count=\count331
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfmatrixcurrentrow=\count332
+\pgfmatrixcurrentcolumn=\count333
+\pgf@matrix@numberofcolumns=\count334
 )
-\tikz@expandcount=\count325
- (e:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-))) (e:/texlive/2018/texmf-dist/tex/generic/chemfig/chemfig.tex
+\tikz@expandcount=\count335
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))) (/usr/local/texlive/2019/texmf-dist/tex/generic/chemfig/chemfig.tex
 Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
- (e:/texlive/2018/texmf-dist/tex/generic/simplekv/simplekv.tex
+Invalid UTF-8 byte or sequence at line 43 replaced by U+FFFD.
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/simplekv/simplekv.tex
 Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
@@ -1845,191 +1152,217 @@ Invalid UTF-8 byte or sequence at line 312 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 312 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
-) (e:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
-\pgfarrowinset=\dimen325
-\pgfarrowlength=\dimen326
-\pgfarrowwidth=\dimen327
-\pgfarrowlinewidth=\dimen328
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfarrowinset=\dimen326
+\pgfarrowlength=\dimen327
+\pgfarrowwidth=\dimen328
+\pgfarrowlinewidth=\dimen329
 )
-Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
-\CF@cnt@atomingroup=\count326
-\CF@cnt@groupnumber=\count327
-\CF@cnt@atomnumber=\count328
-\CF@cnt@cycle=\count329
-\CF@compound@cnt=\count330
-\CF@dim=\dimen329
-\CF@arrow@size=\dimen330
-\CF@lewis@box=\box65
-\CF@box@boxa=\box66
-\CF@stuff@box=\box67
-Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 184 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 184 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 189 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 194 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 336 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+\CF_cntatomgroup=\count336
+\CF_cntgroup=\count337
+\CF_cntatom=\count338
+\CF_cntcycle=\count339
+\CF_cntcompound=\count340
+\CF_dim=\dimen330
+\CF_arrowsize=\dimen331
+\CF_zero=\dimen332
+\CF_boxlewis=\box70
+\CF_box=\box71
+\CF_boxstuff=\box72
+\CF_substtoks=\toks65
+Invalid UTF-8 byte or sequence at line 148 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 205 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 205 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 267 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 267 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 267 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 283 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 283 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 307 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 307 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 307 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 340 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 348 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 348 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 348 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 348 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 348 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 349 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 436 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 440 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 467 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 475 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 478 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 480 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 481 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 481 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 502 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 514 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 514 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 514 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 515 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 537 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 537 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 565 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 565 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 599 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 612 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 612 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 652 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 662 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 662 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 662 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 668 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 670 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 670 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 671 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 671 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 671 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 684 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 689 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 690 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 692 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 724 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 741 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 758 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 758 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 759 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 788 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 788 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 792 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 792 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 793 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 799 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 807 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 807 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 810 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 812 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 815 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 815 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 909 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 909 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 910 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 937 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 937 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 973 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 987 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1012 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1019 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1026 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1026 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1030 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1030 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1046 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1068 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1068 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1124 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1158 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1159 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1173 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1206 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1206 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1225 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1228 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1228 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1286 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1295 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1295 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1335 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1338 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1338 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1338 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1339 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1339 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1343 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1343 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1378 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1553 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1553 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1636 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1636 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1656 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1758 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1776 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1776 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1776 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1807 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1820 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1820 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1840 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1840 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 352 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 353 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 407 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 407 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 407 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 407 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 407 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 408 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 428 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 512 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 516 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 545 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 553 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 556 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 558 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 560 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 560 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 584 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 596 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 596 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 596 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 597 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 601 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 601 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 623 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 623 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 654 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 654 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 697 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 713 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 715 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 716 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 716 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 719 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 719 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 763 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 764 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 764 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 779 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 789 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 789 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 789 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 795 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 797 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 797 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 798 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 798 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 798 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 808 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 814 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 819 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 820 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 822 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 854 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 871 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 895 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 895 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 896 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 927 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 927 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 931 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 931 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 932 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 938 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 947 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 947 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 950 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 954 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 959 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 959 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1055 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1055 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1056 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1093 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1093 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1129 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1143 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1168 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1175 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1182 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1186 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1186 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1202 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1281 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1316 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1317 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1333 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1373 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1373 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1392 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1455 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1464 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1464 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1504 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1507 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1507 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1507 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1508 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1508 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1512 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1512 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1547 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1737 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1737 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1823 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1823 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 1841 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1841 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1841 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1841 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1841 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1882 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1882 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1996 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1957 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1975 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1975 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1975 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2011 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 2024 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 2024 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2024 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2044 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2044 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2045 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2045 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2045 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2045 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2045 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2093 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2093 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2239 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2267 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2267 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2267 replaced by U+FFFD.
 )
-Package: chemfig 2018/04/05 v1.31 Draw molecule with an easy syntax (CT)
-) (e:/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count331
-\lst@gtempboxa=\box68
+Package: chemfig 2019/04/18 v1.4 Draw molecule with an easy syntax (CT)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count341
+\lst@gtempboxa=\box73
 \lst@token=\toks66
-\lst@length=\count332
-\lst@currlwidth=\dimen331
-\lst@column=\count333
-\lst@pos=\count334
-\lst@lostspace=\dimen332
-\lst@width=\dimen333
-\lst@newlines=\count335
-\lst@lineno=\count336
-\lst@maxwidth=\dimen334
- (e:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count337
-\lst@skipnumbers=\count338
-\lst@framebox=\box69
-) (e:/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2015/06/04 1.6 listings configuration
+\lst@length=\count342
+\lst@currlwidth=\dimen333
+\lst@column=\count343
+\lst@pos=\count344
+\lst@lostspace=\dimen334
+\lst@width=\dimen335
+\lst@newlines=\count345
+\lst@lineno=\count346
+\lst@maxwidth=\dimen336
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count347
+\lst@skipnumbers=\count348
+\lst@framebox=\box74
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
- (e:/texlive/2018/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count339
+\c@AlgoLine=\count349
 \algocf@hangindent=\skip97
- (e:/texlive/2018/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count340
-) (e:/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+\c@checkoddpage=\count350
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-) (e:/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
 \skiptotal=\skip98
@@ -2040,162 +1373,145 @@ Package: relsize 2013/03/29 ver 4.1
 \skiplength=\skip103
 \algomargin=\skip104
 \skipalgocfslide=\skip105
-\algowidth=\dimen335
-\inoutsize=\dimen336
-\inoutindent=\dimen337
-\interspacetitleruled=\dimen338
-\interspacealgoruled=\dimen339
-\interspacetitleboxruled=\dimen340
+\algowidth=\dimen337
+\inoutsize=\dimen338
+\inoutindent=\dimen339
+\interspacetitleruled=\dimen340
+\interspacealgoruled=\dimen341
+\interspacetitleboxruled=\dimen342
 \algocf@ruledwidth=\skip106
-\algocf@inoutbox=\box70
-\algocf@inputbox=\box71
+\algocf@inoutbox=\box75
+\algocf@inputbox=\box76
 \AlCapSkip=\skip107
 \AlCapHSkip=\skip108
 \algoskipindent=\skip109
-\algocf@nlbox=\box72
-\algocf@hangingbox=\box73
-\algocf@untilbox=\box74
+\algocf@nlbox=\box77
+\algocf@hangingbox=\box78
+\algocf@untilbox=\box79
 \algocf@skipuntil=\skip110
-\algocf@capbox=\box75
+\algocf@capbox=\box80
 \algocf@lcaptionbox=\skip111
 \algoheightruledefault=\skip112
 \algoheightrule=\skip113
 \algotitleheightruledefault=\skip114
 \algotitleheightrule=\skip115
-\c@algocfline=\count341
-\c@algocfproc=\count342
-\c@algocf=\count343
-\algocf@algoframe=\box76
-\algocf@algobox=\box77
-) (e:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+\c@algocfline=\count351
+\c@algocfproc=\count352
+\c@algocf=\count353
+\algocf@algoframe=\box81
+\algocf@algobox=\box82
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count344
+\c@float@type=\count354
 \float@exts=\toks67
-\float@box=\box78
+\float@box=\box83
 \@float@everytoks=\toks68
-\@floatcapt=\box79
+\@floatcapt=\box84
 )
-\c@currtheoremctr=\count345
-\c@endtheoremctr=\count346
-\c@theorem=\count347
-\c@currdefinitionctr=\count348
-\c@enddefinitionctr=\count349
-\c@definition=\count350
-\c@currlemmactr=\count351
-\c@endlemmactr=\count352
-\c@lemma=\count353
-\c@currcorollaryctr=\count354
-\c@endcorollaryctr=\count355
-\c@corollary=\count356
-\c@currpropositionctr=\count357
-\c@endpropositionctr=\count358
-\c@proposition=\count359
-\c@currexamplectr=\count360
-\c@endexamplectr=\count361
-\c@example=\count362
-\c@currremarkctr=\count363
-\c@endremarkctr=\count364
-\c@remark=\count365
-\c@currproofctr=\count366
-\c@endproofctr=\count367
-\c@proof=\count368
+\c@currtheoremctr=\count355
+\c@endtheoremctr=\count356
+\c@theorem=\count357
+\c@currdefinitionctr=\count358
+\c@enddefinitionctr=\count359
+\c@definition=\count360
+\c@currlemmactr=\count361
+\c@endlemmactr=\count362
+\c@lemma=\count363
+\c@currcorollaryctr=\count364
+\c@endcorollaryctr=\count365
+\c@corollary=\count366
+\c@currpropositionctr=\count367
+\c@endpropositionctr=\count368
+\c@proposition=\count369
+\c@currexamplectr=\count370
+\c@endexamplectr=\count371
+\c@example=\count372
+\c@currremarkctr=\count373
+\c@endremarkctr=\count374
+\c@remark=\count375
+\c@currproofctr=\count376
+\c@endproofctr=\count377
+\c@proof=\count378
 
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { chapter = { format={\centering \sffamily } } } is set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { chapter = { nameformat={\bfseries \sffamily \zihao {3}} } } is
-* set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { chapter = { titleformat={\bfseries \sffamily \zihao {3}} } } is
-* set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { chapter = { numberformat={\bfseries \sffamily \zihao {3}} } } is
-* set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { chapter = { beforeskip={0pt},afterskip={30pt} } } is set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { chapter = { name={第, 章},number={\arabic {chapter}} } } is set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { section = { format={\flushleft \bfseries \sffamily \zihao {4}} }
-* } is set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { section = { beforeskip={24pt},afterskip={6pt} } } is set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { subsection = { format={\flushleft \bfseries \sffamily \zihao
-* {-4}} } } is set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { subsection = { beforeskip={12pt},afterskip={6pt} } } is set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { subsubsection = { format={\flushleft \bfseries \sffamily \zihao
-* {-4}} } } is set.
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXsetup is deprecated.
-* \ctexset { subsubsection = { beforeskip={12pt},afterskip={6pt} } } is set.
-*************************************************
-(e:/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
- (e:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen341
-\captionmargin@=\dimen342
-\captionwidth=\dimen343
-\caption@tempdima=\dimen344
-\caption@indent=\dimen345
-\caption@parindent=\dimen346
-\caption@hangindent=\dimen347
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { chapter = { format={\centering \sffamily } }
+(ctex)                } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { chapter = { nameformat={\bfseries \sffamily
+(ctex)                \zihao {3}} } } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { chapter = { titleformat={\bfseries \sffamily
+(ctex)                \zihao {3}} } } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { chapter = { numberformat={\bfseries \sffamily
+(ctex)                \zihao {3}} } } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { chapter = { beforeskip={0pt},afterskip={30pt}
+(ctex)                } } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { chapter = { name={第, 章},number={\arabic
+(ctex)                {chapter}} } } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { section = { format={\flushleft \bfseries
+(ctex)                \sffamily \zihao {4}} } } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { section = { beforeskip={24pt},afterskip={6pt}
+(ctex)                } } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { subsection = { format={\flushleft \bfseries
+(ctex)                \sffamily \zihao {-4}} } } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { subsection = {
+(ctex)                beforeskip={12pt},afterskip={6pt} } } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { subsubsection = { format={\flushleft
+(ctex)                \bfseries \sffamily \zihao {-4}} } } is set.
+
+
+Package ctex Warning: Command \CTEXsetup is deprecated.
+(ctex)                \ctexset { subsubsection = {
+(ctex)                beforeskip={12pt},afterskip={6pt} } } is set.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen343
+\captionmargin@=\dimen344
+\captionwidth=\dimen345
+\caption@tempdima=\dimen346
+\caption@indent=\dimen347
+\caption@parindent=\dimen348
+\caption@hangindent=\dimen349
 )
-\c@ContinuedFloat=\count369
+\c@caption@flags=\count379
+\c@ContinuedFloat=\count380
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
-) (e:/texlive/2018/texmf-dist/tex/latex/tocloft/tocloft.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip116
@@ -2227,8 +1543,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip142
 \cftfigindent=\skip143
 \cftfignumwidth=\skip144
-\c@lofdepth=\count370
-\c@lotdepth=\count371
+\c@lofdepth=\count381
+\c@lotdepth=\count382
 \cftbeforelottitleskip=\skip145
 \cftafterlottitleskip=\skip146
 \cftbeforetabskip=\skip147
@@ -2236,10 +1552,10 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabnumwidth=\skip149
 )
 \imagewidth=\skip150
-) (e:/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
-Package: xeCJK-listings 2018/04/07 v3.7.0 xeCJK patch file for listings
-\l__xeCJK_listings_max_char_int=\count372
-\l__xeCJK_listings_flag_int=\count373
+) (/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+Package: xeCJK-listings 2019/04/07 v3.7.2 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count383
+\l__xeCJK_listings_flag_int=\count384
 ) (./YAUthesis.aux (./includefile/frontmatter.aux) (./includefile/backmatter.aux))
 \openout1 = `YAUthesis.aux'.
 
@@ -2265,11 +1581,10 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 7.
-.................................................
-. fontspec info: "setup-math"
-. 
-. Adjusting the maths setup (use [no-math] to avoid this).
-.................................................
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
 \symlegacymaths=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
 (Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 7.
@@ -2322,14 +1637,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 7.
-\AtBeginShipoutBox=\box80
+\AtBeginShipoutBox=\box85
 Package hyperref Info: Link coloring OFF on input line 7.
- (e:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
- (e:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count374
+\c@section@level=\count385
 )
 LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
@@ -2372,42 +1687,40 @@ LaTeX Info: Redefining \nameref on input line 7.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-.................................................
-. chemgreek info: "mapping-activated"
-. 
-. Activating mapping `fontspec' on line 7.
-.................................................
+
+Package chemgreek Info: Activating mapping `fontspec' on line 7.
+
 ABD: EveryShipout initializing macros
-\c@lstlisting=\count375
+\c@lstlisting=\count386
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (e:/texlive/2018/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 )
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimSun(0)/bx/n/12.045 分 类 号\TU/TimesNewRoman(0)/bx/n/12.045 :
+\TU/FandolSong-Regular(0)/bx/n/12.045 分 类 号\TU/TimesNewRoman(0)/bx/n/12.045 :
  []
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 29.
-(e:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 29.
- (e:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Overfull \hbox (0.97612pt too wide) detected at line 29
-\TU/SimSun(0)/bx/n/12.045 单 位 代 码\TU/TimesNewRoman(0)/bx/n/12.045 :
+\TU/FandolSong-Regular(0)/bx/n/12.045 单 位 代 码\TU/TimesNewRoman(0)/bx/n/12.045 :
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimSun(0)/bx/n/12.045 密 级\TU/TimesNewRoman(0)/bx/n/12.045 :
+\TU/FandolSong-Regular(0)/bx/n/12.045 密 级\TU/TimesNewRoman(0)/bx/n/12.045 :
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimSun(0)/bx/n/12.045 学 号\TU/TimesNewRoman(0)/bx/n/12.045 :
+\TU/FandolSong-Regular(0)/bx/n/12.045 学 号\TU/TimesNewRoman(0)/bx/n/12.045 :
  []
 
 Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
@@ -9475,51 +8788,43 @@ Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
 File: figures/yadx.eps Graphic file (type eps)
 <figures/yadx.eps>
-\g__fontspec_family_SimHei_int=\count376
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimHei/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimHei/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimHei/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimHei(0)' created for font 'SimHei' with options
-. [Script={CJK}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.: <->"SimHei/OT:script=hani;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
+
+Package fontspec Warning: Font "FandolHei-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolHei-Regular(0)' created for font
+(fontspec)             'FandolHei-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolHei-Bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolHei-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[FandolHei-Bold.otf]/OT"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimSun(0)/bx/n/18.06749 题 目\TU/TimesNewRoman(0)/bx/n/18.06749 :
+\TU/FandolSong-Regular(0)/bx/n/18.06749 题 目\TU/TimesNewRoman(0)/bx/n/18.06749 :
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimSun(0)/bx/n/18.06749 专 业\TU/TimesNewRoman(0)/bx/n/18.06749 :
+\TU/FandolSong-Regular(0)/bx/n/18.06749 专 业\TU/TimesNewRoman(0)/bx/n/18.06749 :
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimSun(0)/bx/n/18.06749 姓 名\TU/TimesNewRoman(0)/bx/n/18.06749 :
+\TU/FandolSong-Regular(0)/bx/n/18.06749 姓 名\TU/TimesNewRoman(0)/bx/n/18.06749 :
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-\TU/SimSun(0)/bx/n/18.06749 职 称\TU/TimesNewRoman(0)/bx/n/18.06749 :
+\TU/FandolSong-Regular(0)/bx/n/18.06749 职 称\TU/TimesNewRoman(0)/bx/n/18.06749 :
  []
 
 [1
@@ -9541,161 +8846,110 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
 
 ]
-\g__fontspec_family_MicrosoftYaHei_int=\count377
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "Microsoft YaHei Bold/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "Microsoft YaHei/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
-. options [Script={CJK},BoldFont={* Bold}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.: <->"Microsoft
-. YaHei/OT:script=hani;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.: <->"Microsoft YaHei
-. Bold/OT:script=hani;language=DFLT;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. - 'bold italic' (bx/it) with NFSS spec.: <->"Microsoft
-. YaHei/BI/OT:script=hani;language=DFLT;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimSun/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimSun/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "SimSun/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimSun(1)' created for font 'SimSun' with options
-. [Script={CJK}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.: <->"SimSun/OT:script=hani;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
- [2
+
+Package fontspec Warning: Font "FandolHei-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(1)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+
+[2
 
 ]) [3
 
-] (./YAUthesis.toc [4
-
-])
+] (./YAUthesis.toc)
 \tf@toc=\write5
 \openout5 = `YAUthesis.toc'.
 
- [5]
+ [4
+
+
+] [5]
 第1章
-\g__fontspec_family_FangSong_int=\count378
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "FangSong/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "FangSong/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "FangSong/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'FangSong(0)' created for font 'FangSong' with options
-. [Script={CJK}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <->"FangSong/OT:script=hani;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
+
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolFang-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
 [1
 
 
 ]
-\g__fontspec_family_KaiTi_int=\count379
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "KaiTi/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "KaiTi/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "KaiTi/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'KaiTi(0)' created for font 'KaiTi' with options [Script={CJK}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.: <->"KaiTi/OT:script=hani;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
- [2]
+
+Package fontspec Warning: Font "FandolKai-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolKai-Regular(0)' created for font
+(fontspec)             'FandolKai-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+[2]
 第2章
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12.045> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 136.
 
-LaTeX Font Warning: Font shape `TU/FangSong(0)/bx/n' undefined
-(Font)              using `TU/FangSong(0)/m/n' instead on input line 136.
+LaTeX Font Warning: Font shape `TU/FandolFang-Regular(0)/bx/n' undefined
+(Font)              using `TU/FandolFang-Regular(0)/m/n' instead on input line 136.
 
 
-LaTeX Font Warning: Font shape `TU/SimSun(0)/bx/it' undefined
-(Font)              using `TU/SimSun(0)/bx/n' instead on input line 138.
+LaTeX Font Warning: Font shape `TU/FandolSong-Regular(0)/bx/it' undefined
+(Font)              using `TU/FandolSong-Regular(0)/bx/n' instead on input line 138.
 
 [3
 
-] [4] [5]
+] [4]
 Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 264.
 Package hyperref Info: bookmark level for unknown proof defaults to 0 on input line 269.
 Package hyperref Info: bookmark level for unknown definition defaults to 0 on input line 287.
+ [5]
 Package hyperref Info: bookmark level for unknown remark defaults to 0 on input line 292.
 Package hyperref Info: bookmark level for unknown proposition defaults to 0 on input line 296.
 Package hyperref Info: bookmark level for unknown example defaults to 0 on input line 300.
 Package hyperref Info: bookmark level for unknown corollary defaults to 0 on input line 304.
- [6]
+
 Overfull \hbox (9.96747pt too wide) in paragraph at lines 344--347
-[]\TU/SimSun(0)/m/n/12.045 很 明 显\TU/TimesNewRoman(0)/m/n/12.045 , \TU/SimSun(0)/m/n/12.045 将 化 学 方 程 式 作 为 数 学 公 式 输 入 很 复 杂\TU/TimesNewRoman(0)/m/n/12.045 , \TU/SimSun(0)/m/n/12.045 且 十 分 笨 拙\TU/TimesNewRoman(0)/m/n/12.045 . \TU/SimSun(0)/m/n/12.045 所 以 我 引 入 了 \TU/TimesNewRoman(0)/m/n/12.045 mhchem
+[]\TU/FandolSong-Regular(0)/m/n/12.045 很 明 显\TU/TimesNewRoman(0)/m/n/12.045 , \TU/FandolSong-Regular(0)/m/n/12.045 将 化 学 方 程 式 作 为 数 学 公 式 输 入 很 复 杂\TU/TimesNewRoman(0)/m/n/12.045 , \TU/FandolSong-Regular(0)/m/n/12.045 且 十 分 笨 拙\TU/TimesNewRoman(0)/m/n/12.045 . \TU/FandolSong-Regular(0)/m/n/12.045 所 以 我 引 入 了 \TU/TimesNewRoman(0)/m/n/12.045 mhchem
  []
 
+[6]
 File: figures/direction.png Graphic file (type bmp)
 <figures/direction.png>
-[7]
+ [7]
 File: figures/texlion.jpg Graphic file (type bmp)
 <figures/texlion.jpg>
 File: figures/Lenna.pdf Graphic file (type pdf)
@@ -9703,20 +8957,21 @@ File: figures/Lenna.pdf Graphic file (type pdf)
 File: figures/Lenna_e.pdf Graphic file (type pdf)
 <use figures/Lenna_e.pdf>
  [8]
-Overfull \hbox (7.24219pt too wide) in paragraph at lines 459--460
-[]\TU/SimSun(0)/m/n/12.045 伪 代 码 排 版 使 用 了 \TU/TimesNewRoman(0)/m/n/12.045 algorithm2e\TU/SimSun(0)/m/n/12.045 ，|  我 们 来 看 看 算 法[]\TU/TimesNewRoman(0)/m/n/12.045 1[] |\TU/SimSun(0)/m/n/12.045 （更 多 样 例 请 \TU/TimesNewRoman(0)/m/n/12.045 google“algorithm2e”\TU/SimSun(0)/m/n/12.045 ） ：| 
+Overfull \hbox (6.87817pt too wide) in paragraph at lines 459--460
+[]\TU/FandolSong-Regular(0)/m/n/12.045 伪 代 码 排 版 使 用 了 \TU/TimesNewRoman(0)/m/n/12.045 algorithm2e\TU/FandolSong-Regular(0)/m/n/12.045 ，|  我 们 来 看 看 算 法[]\TU/TimesNewRoman(0)/m/n/12.045 1[] |\TU/FandolSong-Regular(0)/m/n/12.045 （更 多 样 例 请 \TU/TimesNewRoman(0)/m/n/12.045 google“algorithm2e”\TU/FandolSong-Regular(0)/m/n/12.045 ） ：| 
  []
 
-[9] (e:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 481.
- [10]
+ [9] [10]
 第3章
+Missing character: There is no 俍 in font [FandolSong-Regular.otf]/OT!
 [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 529--530
+Underfull \hbox (badness 10000) in paragraph at lines 531--532
 []\TU/TimesNewRoman(0)/m/n/12.045 Herbert Voß, Mathmode, []$[][][][] [] [] [] [][][] [] [][][] [] [][] [] [][] [] [][][][] [] [][][][] [] [][][][] [] [][][][] []
  []
 
@@ -9742,26 +8997,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 529--530
 \tf@thm=\write6
 \openout6 = `YAUthesis.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 557.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 557.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 559.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 559.
  (./YAUthesis.aux (./includefile/frontmatter.aux) (./includefile/backmatter.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 557.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 557.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 559.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 559.
 Package rerunfilecheck Info: File `YAUthesis.out' has not changed.
-(rerunfilecheck)             Checksum: C35C72E1D86932DA1DF4CBDA36799ADF.
+(rerunfilecheck)             Checksum: AFC786D6BE95A352A50B291E86CB216E.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 557.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 559.
  ) 
 Here is how much of TeX's memory you used:
- 40372 strings out of 492970
- 822906 string characters out of 6137299
- 925055 words of memory out of 5000000
- 43738 multiletter control sequences out of 15000+600000
- 553587 words of font info for 184 fonts, out of 8000000 for 9000
+ 42224 strings out of 492916
+ 866175 string characters out of 6133344
+ 1119926 words of memory out of 5000000
+ 45659 multiletter control sequences out of 15000+600000
+ 555669 words of font info for 188 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 69i,24n,85p,25904b,1166s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,24n,85p,25907b,1166s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on YAUthesis.pdf (21 pages).

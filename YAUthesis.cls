@@ -1,6 +1,6 @@
 % !Mode:: "TeX:UTF-8"
 \NeedsTeXFormat{LaTeX2e}[1999/12/01]
-\ProvidesClass{YAUthesis}[2019/05/14 v0.2 Yanan University Thesis Template for Bachelor Degree]
+\ProvidesClass{YAUthesis}[2019/05/14 v1.1 Yanan University Thesis Template for Bachelor Degree]
 \LoadClass[zihao=-4,a4paper,oneside]{ctexbook}
 \setmainfont{Times New Roman}
 
@@ -259,17 +259,32 @@
 
 %%% ---- 图表标题设置 ----- %%%%
 \RequirePackage[labelsep=quad]{caption} %% 序号之后空一格写标题
-\captionsetup[table]{textfont=bf}  %%设置表格标题字体为黑体  。2016.06.07
-\renewcommand\figurename{\zihao{-4} 图}
-\renewcommand\tablename{\bf\zihao{-4} 表} 
+\captionsetup[table]{textfont=bf,font=small}  %%设置表格标题字体为黑体字号为小五  。2019.05.25
+\captionsetup[figure]{textfont=bf,font=small}
+\renewcommand\figurename{\bf\zihao{5} 图}
+\renewcommand\tablename{\bf\zihao{5} 表} 
 
 %%% ------ 目录设置 ------- %%%%
 \ctexset{contentsname={目\qquad 录}}
 
-\RequirePackage{tocloft} 
-\renewcommand\cftchapfont{\zihao{4}\bf}
-\renewcommand\cfttoctitlefont{\hfill\zihao{-2}\bf}
+\RequirePackage[titles]{tocloft}
+\renewcommand{\cftdot}{…}          % 引导点，用中文的省略号
+\renewcommand{\cftdotsep}{0}        % 引导点的距离
+\renewcommand\cftchapfont{\zihao{5}\bf}
+\renewcommand\cfttoctitlefont{\hfill\zihao{-2}}
 \renewcommand\cftaftertoctitle{\hfill}
+\setlength{\cftbeforechapskip}{0pt}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftchapdotsep}}
+\renewcommand{\cftchapdotsep}{\cftdotsep}
+\makeatletter
+\renewcommand{\numberline}[1]{%
+\settowidth\@tempdimb{#1\hspace{0.5em}}%
+\ifdim\@tempdima<\@tempdimb%
+  \@tempdima=\@tempdimb%
+\fi%
+\hb@xt@\@tempdima{\@cftbsnum #1\@cftasnum\hfil}\@cftasnumb}
+\makeatother
 
 %%===参考文献===%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \bibliographystyle{abbrv}        % 参考文献样式,  plain,unsrt,alpha,abbrv,chinesebst 等等
